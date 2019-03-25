@@ -1,0 +1,547 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" dir="ltr">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Language" content="ja" />
+
+<title>カルニチン | 海外の情報 | 医療関係者の方へ | 「統合医療」情報発信サイト　厚生労働省 「統合医療」に係る情報発信等推進事業</title>
+
+<meta name="Description" content="「統合医療」情報発信サイトの「海外の情報（医療関係者へ）」のページです。「「統合医療」情報発信サイトは、民間療法をはじめとする相補(補完)・代替療法*と、どのように向き合い、利用したらよいのかどうかを考えるために、エビデンス（根拠）に基づいた情報を紹介しています。決して個人の責任で実施するさまざまな療法を制限するものではなく、また特定の療法を勧めるものでもありません。 ※相補(補完)・代替療法：近代西洋医学と組み合わせられる各種療法" />
+<meta name="Keywords" content="統合医療,相補(補完)・代替療法,厚生労働省" />
+<meta name="robots" content="FOLLOW,INDEX" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link href="../../../common/css/default.css" rel="stylesheet" type="text/css" media="screen,projection,tv,print" />
+<link href="../../../common/css/frame.css" rel="stylesheet" type="text/css" media="screen,projection,tv,print" />
+<link href="../../../common/css/frame_sp.css" rel="stylesheet" type="text/css" media="screen,projection,tv,print" />
+<link href="../../../common/css/contents.css" rel="stylesheet" type="text/css" media="screen,projection,tv,print" />
+<link href="../../../common/css/print.css" rel="stylesheet" type="text/css" media="print" />
+
+<script type="text/javascript" src="../../../common/js/library.js"></script>
+<script type="text/javascript" src="../../../common/js/navi_dir3.js"></script>
+<script type="text/javascript" src="../../../common/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="../../../common/js/jquery-ui-1.8.18.custom.min.js"></script>
+<script type="text/javascript" src="../../../common/js/jquery.plugin.js"></script>
+<script type="text/javascript" src="../../../common/js/pagetop.js"></script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="../../../common/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</head>
+
+
+<body id="pro" class="pro_c03_02" onload="$cc.Load('gn_pro', $cc.cache),$cc.Load('gn_pro_overseas', $cc.cache)">
+
+
+<!-- Wrapper -->
+<div id="wrapper_bg">
+<div id="wrapper">
+
+
+<!-- Header  --><!-- #BeginLibraryItem "/Library/header_pro.lbi" -->
+<!-- PC -->
+<div id="header" class="clearfix">
+<div class="logo"><a href="../../index.html"><img src="../../../common/img/logo.gif" width="350" height="76" alt="厚生労働省『「統合医療」に係る情報発信等推進事業』 「統合医療」情報発信サイト Information site for evidence-based Japanese Integrative Medicine(eJIM)" /></a></div>
+<div class="btn_en"><a href="../../../en/index.html" class="btn_en"><img src="../../../common/img/btn_en.gif" alt="ENGLISH" width="90" height="25" /></a></div>
+<div class="utility">
+<div class="un clearfix">
+<ul class="list_arrow_inlineR">
+<li><a href="../../../inquiry">ご意見・ご感想</a></li>
+<li><a href="../../../utility/guide.html">ご利用にあたって（文献調査委員会と利益相反関連事項）</a></li>
+</ul>
+</div>
+<div class="search">
+<script>
+  (function() {
+    var cx = '000742836744927002512:vufafczllvc';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div>
+</div>
+</div>
+<!-- /PC -->
+
+<!-- SP  -->
+<div id="header_sp" class="clearfix">
+<div class="logo"><a href="../../index.html"><img src="../../../common/img_sp/logo.svg" width="350" height="76" alt="厚生労働省『「統合医療」に係る情報発信等推進事業』「統合医療」情報発信サイト Information site for evidence-based Japanese Integrative Medicine(eJIM)" /></a></div>
+<div class="btn_un"><a href="#"><img src="../../../common/img_sp/btn_utility.svg" alt="" /></a></div>
+<div class="utility">
+<ul>
+<li><a href="../../../utility/guide.html">ご利用にあたって<br />（文献調査委員会と利益相反関連事項）</a></li>
+<li><a href="../../../inquiry">ご意見・ご感想</a></li>
+<li><a href="../../../en/index.html">ENGLISH</a></li>
+</ul>
+
+<div class="search">
+<script>
+  (function() {
+    var cx = '000742836744927002512:vufafczllvc';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div>
+
+</div>
+</div>
+<!-- /SP --><!-- #EndLibraryItem --><!-- End Header  -->
+
+<!-- Global Navigation --><!-- #BeginLibraryItem "/Library/gn_pro.lbi" -->
+<!-- PC -->
+<div id="gnavi">
+<ul class="gn clearfix">
+<li><a href="../../../public/index.html" onmouseover="$cc.Mouseover('gn_public', $cc.cache)" onmouseout="$cc.Mouseout('gn_public', $cc.cache)"><img src="../../../common/img/gn_publicnew.gif" alt="一般の方へ" name="gn_public" width="312" height="50" id="gn_public" /></a></li>
+<li class="left"><a href="../../index.html" onmouseover="$cc.Mouseover('gn_pro', $cc.cache)" onmouseout="$cc.Mouseout('gn_pro', $cc.cache)"><img src="../../../common/img/gn_pronew.gif" alt="医療関係者の方へ" name="gn_pro" width="312" height="50" id="gn_pro" /></a></li>
+<li class="left"><a href="../../../doc/index_food.html" onmouseover="$cc.Mouseover('gn_doc', $cc.cache)" onmouseout="$cc.Mouseout('gn_doc', $cc.cache)"><img src="../../../common/img/gn_doc.gif" alt="統合医療エビデンス" name="gn_doc" width="312" height="50" id="gn_doc" /></a></li>
+</ul>
+
+<ul class="gn_sub pro_bg clearfix">
+<li><a href="../../about/index.html" onmouseover="$cc.Mouseover('gn_pro_about', $cc.cache)" onmouseout="$cc.Mouseout('gn_pro_about', $cc.cache)"><img src="../../../common/img/gn_pro_about.gif" alt="「統合医療」とは？" name="gn_pro_about" width="180" height="44" id="gn_pro_about" /></a></li>
+<li><a href="../../communication/index.html" onmouseover="$cc.Mouseover('gn_pro_communication', $cc.cache)" onmouseout="$cc.Mouseout('gn_pro_communication', $cc.cache)"><img src="../../../common/img/gn_pro_communication.gif" alt="コミュニケーション" name="gn_pro_communication" width="180" height="44" id="gn_pro_communication" /></a></li>
+<li><a href="../../doc/index.html" onmouseover="$cc.Mouseover('gn_pro_doc', $cc.cache)" onmouseout="$cc.Mouseout('gn_pro_doc', $cc.cache)"><img src="../../../common/img/gn_pro_doc.gif" alt="冊子・資料" name="gn_pro_doc" width="180" height="44" id="gn_pro_doc" /></a></li>
+<li class="last"><a href="../index.html" onmouseover="$cc.Mouseover('gn_pro_overseas', $cc.cache)" onmouseout="$cc.Mouseout('gn_pro_overseas', $cc.cache)"><img src="../../../common/img/gn_pro_overseas.gif" alt="海外の情報" name="gn_pro_overseas" width="180" height="44" id="gn_pro_overseas" /></a></li>
+</ul>
+</div>
+<!-- /PC -->
+
+<!-- SP -->
+<div id="gnavi_sp">
+<ul class="navi clearfix">
+<li class="public"><a href="javascript:void(0)" class="btn_toggle"><img src="../../../common/img_sp/gn_public.svg" alt="一般の方へ" class="img_svg" /></a>
+<ul class="gn_sub">
+<li><a href="../../../public/index.html">一般の方へ トップ</a></li>
+<li><a href="../../../public/about/index.html">「統合医療」とは？</a></li>
+<li><a href="../../../public/hint/index.html">情報の見極め方</a></li>
+<li><a href="../../../public/doc/index.html">冊子・資料</a></li>
+<li><a href="../../../public/overseas/index.html">海外の情報</a></li>
+</ul>
+</li>
+<li class="pro"><a href="javascript:void(0)" class="btn_toggle"><img src="../../../common/img_sp/gn_pro.svg" alt="医療関係者の方へ" class="img_svg" /></a>
+<ul class="gn_sub">
+<li><a href="../../index.html">医療関係者の方へ トップ</a></li>
+<li><a href="../../about/index.html">「統合医療」とは？</a></li>
+<li><a href="../../communication/index.html">コミュニケーション</a></li>
+<li><a href="../../doc/index.html">冊子・資料</a></li>
+<li><a href="../index.html">海外の情報</a></li>
+</ul>
+</li>
+<li class="doc"><a href="javascript:void(0)" class="btn_toggle"><img src="../../../common/img_sp/gn_doc.svg" alt="統合医療エビデンス" class="img_svg" /></a>
+<ul class="gn_sub">
+<!--<li><a href="../doc/index_food.html">統合医療エビデンス トップ</a></li>-->
+<li><a href="../../../doc/index_food.html">健康食品</a></li>
+<li><a href="../../../doc/index.html">コクランレビュー</a></li>
+<li><a href="../../../doc/index_other.html">構造化抄録</a></li>
+<li><a href="../../../doc/index_mhnl.html">旧厚労科研・AMED</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- /SP --><!-- #EndLibraryItem --><!-- End Global Navigation  -->
+
+
+<!-- Topic path -->
+<div id="topicpath"><a href="../../index.html">医療関係者の方へ ホーム</a>&nbsp;&nbsp;<span>&gt;</span>&nbsp;&nbsp;<a href="../index.html">海外の情報</a>&nbsp;&nbsp;<span>&gt;</span>&nbsp;&nbsp;カルニチン</div>
+<!-- End Topic path -->
+
+
+<!-- Contents Area -->
+<div id="contents" class="clearfix">
+
+
+<!-- Main -->
+<div id="main">
+
+
+<h1>海外の情報</h1>
+
+
+<!-- Column -->
+<h2 class="main_ttl">カルニチン<br />
+Carnitine</h2>
+
+<div class="b40">
+<div class="box_line_gray_p10">
+<a href="http://ods.od.nih.gov/factsheets/Carnitine-HealthProfessional/" target="_blank" class="window">最新版（英語版オリジナルページ）はこちら</a><br />
+英語版最終改訂年月（翻訳時）：2013年5月10日
+</div>
+</div>
+<!-- End Column -->
+
+
+<!-- Column -->
+<div class="b40">
+<div class="box_dashline_gray_p20">
+<h4 class="normal_ttl">■ このページの内容</h4>
+<ul class="list_disc">
+<li><a href="#d01">カルニチンとは？</a></li>
+<li><a href="#d02">カルニチンの推奨摂取量は？</a></li>
+<li><a href="#d03">カルニチンを摂取できる食物は？</a></li>
+<li><a href="#d04">カルニチンの吸収と代謝</a></li>
+<li><a href="#d05">カルニチン欠乏は、どのようなときに起こる？</a></li>
+<li><a href="#d06">現時点におけるカルニチンの論点・争点</a></li>
+<li><a href="#d07">カルニチンを過剰摂取した場合の健康上のリスクは？</a></li>
+<li><a href="#d08">カルニチンと薬物相互作用</a></li>
+<li><a href="#d09">カルニチンの補給源</a></li>
+<li><a href="#d10">カルニチンの摂取と健康的な食事</a></li>
+<li><a href="#d11">参考文献</a></li>
+<li><a href="#d12">免責事項</a></li>
+</ul>
+</div>
+</div>
+<!-- End Column -->
+
+
+<!-- Column -->
+<h3 id="d01" class="line_gray">カルニチンとは？</h3>
+<p class="b10">カルニチンは、アミノ酸由来の物質で、身体のほぼすべての細胞に存在する。カルニチンという名前は、肉に含まれていた物質であることから、ラテン語で肉を意味する「carnus」に由来する。カルニチンは、L-カルチニン、アセチル‐L-カルチニン、プロピオニル‐L-カルチニンなど多くの物質の総称である[<a href="#en1">1-2</a>]。</p>
+<p class="b10">カルニチンはエネルギー産生において重要な役割を果たしている。カルニチンは長鎖脂肪酸をミトコンドリア内に運搬し、酸化（燃焼）することでエネルギーを産生している。さらにカルニチンは、生成された有毒な物質をミトコンドリアの外に運びだし、蓄積するのを防いでいる。こういった重要な役割を担っていることから、カルニチンは骨格筋や心筋に多く存在し、脂肪酸を燃料として利用している[<a href="#en1">1-2</a>]。</p>
+<p class="b40">通常、カルニチンは身体に必要とされる十分な量が体内で産生されるが、遺伝的理由や医学的理由により、十分な量を産生できない一部の個人（未熟児など）にとっては、カルニチンは条件付きの必須栄養素といえる[<a href="#en1">1</a>]。</p>
+<!-- End Column -->
+
+
+<!-- Column -->
+<h3 id="d02" class="line_gray">カルニチンの推奨摂取量は？</h3>
+<p class="b40">健康な小児および成人は、1日に必要なカルニチンを肝臓および腎臓でアミノ酸のリジンとメチオニンにより十分な量を合成するため、食物やサプリメントから摂取する必要はない[<a href="#en1">1-3</a>]。米国科学アカデミー医学研究所の食品栄養委員会（FNB）は、1989年にカルニチンの機能に関する研究を検討し、カルニチンが必須栄養素ではないことを結論づけていた[<a href="#en3">3</a>]。食品栄養委員会（FNB）はカルニチンの1日あたりの推奨栄養所要量（RDA）などの食事摂取基準を定めてはいない[<a href="#en4">4</a>]。</p>
+<!-- End Column -->
+
+
+<!-- Column -->
+<h3 id="d03" class="line_gray">カルニチンを摂取できる食物は？</h3>
+<p class="b20">赤身の肉、魚肉、鶏肉、牛乳などの動物性食品に豊富に含まれていて、通常、肉の色が赤ければ赤いほど、カルニチン含有量が高くなる。乳製品では、カルニチンは主にホエー画分に含まれる[<a href="#en1">1</a>,<a href="#en3">3</a>,<a href="#en5">5</a>]。表1に各種食品のカルニチン含有量を示す。</p>
+<h5 class="normal_ttl">表1：各種食品のカルニチン含有量（1オンスは約28g、1カップは240ml）</h5>
+<table cellspacing="0" cellpadding="0" class="table_normal" summary="表1：各種食品のカルニチン含有量（1オンスは約28g、1カップは240ml">
+<tr>
+<td width="338" class="ttl alignC">食品</td>
+<td width="128" class="ttl alignC">mg</td>
+</tr>
+<tr>
+<td class="head">調理したビーフステーキ　4オンス（約113g）</td>
+<td class="text">56～162</td>
+</tr>
+<tr>
+<td class="head">調理した牛のひき肉　4オンス（約113g）</td>
+<td class="text">87～99</td>
+</tr>
+<tr>
+<td class="head">全乳　1カップ（240ml）</td>
+<td class="text">8</td>
+</tr>
+<tr>
+<td class="head">調理したタラ　4オンス（約113g）</td>
+<td class="text">4～7</td>
+</tr>
+<tr>
+<td class="head">調理した鶏の胸肉　4オンス（約113g）</td>
+<td class="text">3～5</td>
+</tr>
+<tr>
+<td class="head">アイスクリーム　1／2カップ（120ml）</td>
+<td class="text">3</td>
+</tr>
+<tr>
+<td class="head">チェダーチーズ　2オンス（約57g）</td>
+<td class="text">2</td>
+</tr>
+<tr>
+<td class="head">全粒小麦粉のパン　2切れ</td>
+<td class="text">0.2</td>
+</tr>
+<tr>
+<td class="head">調理したアスパラガス　1／2カップ（120ml）</td>
+<td class="text">0.1</td>
+</tr>
+</table>
+<div class="b20">
+</div>
+<p class="b40">カルニチンはL-カルチニンとD‐カルニチンがあり、お互いの分子内の化学結合が鏡像の関係にある（異性体）。L-カルチニンのみが体内で活性があり、食物に含まれている[<a href="#en1">1</a>,<a href="#en6">6</a>]。</p>
+<!-- End Column -->
+
+
+<!-- Column -->
+<h3 id="d04" class="line_gray">カルニチンの吸収と代謝</h3>
+<p class="b10">赤身の肉や他の動物性食品などの混食を食べている成人は、1日あたり約60～180mgのカルニチンを摂取している[<a href="#en6">6</a>]。ベーガン（完全菜食主義者）は動物性由来食品を摂取しないため、カルニチン摂取量は約10～12 mgと少なくなる。食品中のカルニチンのほとんど（54～86%）は小腸から吸収され、血液中に入る[<a href="#en1">1</a>,<a href="#en6">6</a>]。</p>
+<p class="b40">腎臓はカルニチンを効率的に保持するため、摂取した食事のカルニチン含有量が低くても、体内のカルニチン量にはほとんど影響しない。[<a href="#en1">1</a>,<a href="#en5">5</a>]安定したカルニチンの血中濃度を維持するために、必要に応じて過剰なカルニチンは代謝されるよりむしろ腎臓から尿中に排出される。</p>
+<!-- End Column -->
+
+
+<!-- Column -->
+<h3 id="d05" class="line_gray">カルニチン欠乏は、どのようなときに起こる？</h3>
+<p class="b40">カルニチン欠乏には2種類あります。一つ目は細胞のカルニチン輸送システムの遺伝性疾患で、通常5歳までに心筋症、骨格筋の脱力、低血糖の症状が現れる。2つ目は特定の疾患（慢性腎不全など）もしくは特定の状況下（特定の抗生物質の使用など）が原因で起こるカルニチン欠乏で、カルニチンの吸収が低下もしくは、排出量の増加が起こる[<a href="#en1">1</a>,<a href="#en5">5</a>]。こういった欠乏症の治療に医療用医薬品としてカルニチンの価値があることは、研究者の大多数が認めている[<a href="#en2">2</a>]。</p>
+<!-- End Column -->
+
+
+<!-- Column -->
+<h3 id="d06" class="line_gray">現時点におけるカルニチンの論点・争点</h3>
+<p class="b20">カルニチンは、エネルギーの産生にとって重要であり、忍容性が良好で一般的に安全な治療薬のため、広く研究されてきた[<a href="#en7">7</a>]。アセチル‐L-カルチニンはL-カルチニンよりも小腸からの吸収がよく、血液脳関門を効率よく通過するため（脳組織まで届く）、研究者は研究でアセチル‐L-カルチニンを使用することを好む[<a href="#en8">8</a>]。</p>
+
+<h4 class="sq">運動能力</h4>
+<p class="b20">一部のアスリートは運動能力を改善させるためにカルニチンを摂取しているが、健常者を対象に1日あたり2～6gのカルニチン摂取を1～28日間、約20年間継続した研究によると、カルニチンのサプリメントを摂取することで運動能力もしくは身体能力が改善したという一貫した証拠は認められなかった[<a href="#en9">9-11</a>]。（155ポンド（約70㎏）の男性の全身の総カルニチン含有量は約20gになり、ほとんどが骨格筋に存在している[<a href="#en11">11</a>]。）例えば、カルニチンのサプリメントは、運動時に身体の酸素使用量を増加させるわけでも、代謝状態を改善させるわけでもなく、筋肉中のカルニチン量を必ずしも増やすというわけではない[<a href="#en10">10</a>]。</p>
+
+<h4 class="sq">老化</h4>
+<p class="b20">ミトコンドリアの機能の低下は老化の一因と考えられている。年齢とともに組織内のカルニチン濃度が低下するとミトコンドリア膜の状態も悪化するので、カルニチンも老化に関係している可能性がある[<a href="#en12">12</a>]。　加齢ラットを使用した研究で、高用量のアセチル‐L-カルチニンとαリポ酸（抗酸化物質）を補給することでミトコンドリア崩壊が減少することが示された[<a href="#en13">13-15</a>]。　さらにラットはよく動き回るようになり、記憶課題における成績が改善した。　現在、この種の研究でヒトを対象にしたものはないが、二重盲検プラセボ対照試験のメタアナリシスによると、アセチル‐L-カルチニンの補給により、軽度認知機能障害とアルツハイマー病を有する高齢者の症状の悪化を抑え、精神機能を改善する可能性があることを示唆した[<a href="#en16">16</a>]。これらの研究では、被験者は1日あたり1.5～3.0 gのアセチル‐L-カルチニンが3～12カ月間、摂取した。</p>
+
+<h4 class="sq">心血管疾患と末梢動脈疾患</h4>
+<p class="b10">心虚血（心臓への血流が制限される）と末梢動脈疾患（最も重大な症状は、間欠性跛行として知られる足の血液循環不良）の治療として、カルニチン補給の有効性がいくつかの研究により検討された[<a href="#en17">17-18</a>]。　機能が低下しつつある心筋ではカルニチン量が低いため、カルニチンを補給することで遊離脂肪酸の有毒作用を中和し、炭水化物の代謝を改善できるかもしれない[<a href="#en17">17</a>]。短期試験において、カルニチンを経口および注射による投与を行ったところ、抗虚血特性が認められた。イタリアで行われた二重盲検プラセボ対照多施設共同試験で、急性前壁心筋梗塞の既往歴のある2330例がL-カルチニン補給（9 g／日5日間静脈内投与後、4 g／日6カ月間経口摂取）する群と、プラセボを投与する群いずれかに割り付けられた[<a href="#en19">19</a>]。L-カルチニンL-カルチニンによる治療を行った群では、割り付け後5日で死亡率が有意に減少したが、6カ月の時点では心不全および死亡リスクへの有意な影響は認められなかった。2013年のメタアナリシスの著者らは本試験結果とより小規模な12の試験結果のデータを結合して分析を行った[<a href="#en20">20</a>]。著者らは、急性心筋梗塞の既往歴のある患者にL-カルチニンによる治療を行うと、追跡期間中央値2カ月で、全死因死亡は27%、心室性不整脈は65%、狭心症は40%減少するが、心不全もしくは心筋梗塞の再発リスクは減少しないと結論づけている。</p>
+<p class="b10">間欠性跛行は酸素の豊富な血液が十分に足に供給されないことで起こり、アセチルカルニチンが完全には利用されずに筋肉中に蓄積される。間欠性跛行を発症した末梢動脈疾患の患者は運動能力が著しく障害され、短い距離をゆっくりとしたスピードで歩行することも困難になる[<a href="#en18">18</a>]。研究によると、カルニチンは足の骨格筋の能力を改善する可能性があることを示している。ヨーロッパで行われたある多施設共同試験によると、中等度から重度の間欠性跛行の患者にL-カルチニン（プロピオニル‐L-カルチニンとして2 g／日12カ月間投与）を補給した群は、プラセボ群と比較して最大歩行距離とQOL（生活の質）が有意に改善した[<a href="#en21">21</a>]。アメリカとロシアで行われた同様の多施設共同試験によると、同じ用量（2 g／日）と同じカルニチンの状態（プロピオニル‐L-カルチニン）を重症の間欠性跛行患者に6カ月間投与した群では、対照群に比べて、歩行距離、歩行速度、身体的苦痛、身体機能、自覚している健康状態などに有意な改善が認められた[<a href="#en22">22</a>]。これらの試験と他の12のランダム化試験を含む系統的レビューとメタアナリシスの著者らによると、プロピオニル‐L-カルチニンは間欠性跛行患者の最大歩行距離を有意に伸ばしたと結論づけた[<a href="#en23">23</a>]。</p>
+<p class="b20">これらの所見では、L-カルチニンは、最長1年まで投与した場合、特定の条件において心血管系に有益な効果をもたらすであろうと示唆されるが、他の研究からカルニチンへの慢性的な曝露による心血管系への影響を懸念される。2013年に行われた研究では、選択的心機能評価を受けた齧歯動物とヒト2595例の両方を対象にしており、L-カルチニンは腸内微生物叢により代謝されトリメチルアミン‐N‐オキシド（TMAO）となることが判明した。そしてこのトリメチルアミン‐N‐オキシド（TMAO）は心血管疾患と関わりのあるアテローム誘発性の物質であることが認められた[<a href="#en24">24</a>]。腸内細菌組成物の違いにより、ベーガン（完全菜食主義者）やベジタリアンの参加者よりも、雑食の参加者のほうが、L-カルチニン代謝後にトリメチルアミン‐N‐オキシドを多く産生することが明らかになった。さらに研究では、空腹時血漿中L-カルチニン濃度と、冠動脈疾患、末梢動脈疾患、全心血管疾患が用量依存的に関連していることを示したが、同時にこれはトリメチルアミン‐N‐オキシドの値が高い参加者のみに示された結果であった。研究者たちは、これらの結果から、赤身の肉（カルニチンの元になる成分が豊富）を多く摂取することと心血管疾患リスクの増加との関連が部分的に説明しうると指摘した。カルニチンが心臓血管の健康に与える影響を十分に解明するためにさらなる研究が必要とされる。</p>
+
+<h4 class="sq">がん</h4>
+<p class="b20">がん患者では、化学療法、放射線治療、栄養不良状態による疲労が一般的に見られる[<a href="#en25">25</a>]。さらにがん患者ではカルニチンが不足する場合もある[<a href="#en25">25</a>]。ある研究において、化学療法を受けた被験者に、カルニチン補給療法（4 g／日1週間）を行ったところ、多くの被験者の疲労が改善し、カルニチンが正常な血中濃度に回復した[<a href="#en26">26</a>]。別の研究では、カルニチン補給療法（250 mg～3 g／日）を受けた末期がん患者の疲労が緩和され、気分が改善し、睡眠の質が向上した[<a href="#en25">25</a>]。両方の研究で、被験者の多くが補給を受ける前は、カルニチンが不足した状態であった。</p>
+
+<h4 class="sq">2型糖尿病</h4>
+<p class="b20">2型糖尿病の発症において大きな役割を果たすインスリン抵抗性は、筋肉中の脂肪酸酸化異常に関係している可能性がある[<a href="#en27">27</a>]。これにより、ミトコンドリア機能障害が2型糖尿病発症の原因である可能性が問題提起される。除脂肪組織における脂肪蓄積量の増加がインスリン抵抗性のマーカーとなった[<a href="#en27">27</a>]。　初期の研究から、L-カルチニンを静脈内投与により補給することで、筋肉中の脂肪量を減少させ、糖尿病患者のインスリン感受性を改善し、さらに細胞中の酸化がより速やかに促進され、血糖値を低下させることができることが示唆された[<a href="#en27">27-29</a>]。1型と2型糖尿病患者を対象とした2つの多施設共同試験の最近の解析によると、アセチル‐L-カルチニン（3 g／日を経口摂取）を一年間摂取する治療により、糖尿病性神経障害を有する患者において神経痛が有意に緩和し、振動覚が有意に改善された。この治療は初期の2型糖尿病患者に最も有効であった[<a href="#en30">30</a>]。</p>
+
+<h4 class="sq">HIV（ヒト免疫不全ウイルス）とエイズ</h4>
+<p class="b20">ヒト免疫不全ウイルス（HIV）は、多数のリンパ球（白血球の一種）の減少を引き起こし、後天性免疫不全症候群（AIDS）を発症させる。HIV感染者では、リポジストロフィー症候群の特徴的な症状である、身体のいくつかの部位における脂肪の蓄積、他の部位における脂肪の減少、血中脂肪濃度の上昇（脂質異常症）、インスリン抵抗性の発現がしばしば認められます。リポジストロフィー症候群はHIV感染によるミトコンドリア毒性を示す場合があり、その治療のために以前は抗レトロウイルス薬が使用されるが、これによりミトコンドリアの脂肪代謝を制限するカルニチン欠乏が誘導される[<a href="#en31">31</a>]。この症状を引き起こす分子メカニズムはよくわかっていない。予備研究では、相反する研究結果が得られているが[<a href="#en32">32</a>]、HIV感染患者を対象にした静脈内投与と経口摂取の両方の方法によるカルニチン補給療法（2～6 g／日を数週間もしくは数カ月投与）では、リンパ球細胞死を遅らせ（同様にHIVの進行を遅らせ）[<a href="#en33">33-34</a>]、神経障害が軽減し[<a href="#en35">35-37</a>]、血中脂質濃度に好ましい影響が生じたものと示唆された。</p>
+
+<h4 class="sq">末期腎不全と血液透析</h4>
+<p class="b20">腎不全患者におけるカルニチンの恒常性（体内バランス）は、いくつかの要因により著しく損なわれる。その要因には、腎臓による化合物合成の著しい低下と、化合物排出の著しい増加、ならびに食欲不振による食事からの摂取量低下、動物性食品の摂取量などです[<a href="#en41">41</a>]。　末期腎不全患者で、特に血液透析を受けている患者では、カルニチンが不足する。血中のカルニチン濃度と筋肉中のカルニチン量が低いことが、貧血や筋肉低下、疲労、血中脂質濃度の変化、心疾患などの一因となる可能性がある。数多くの研究から維持血液透析を受けている患者に高用量のカルニチン補給（大半が注射により）をすることにより、上記症状のいくつか、もしくはすべてのそういった症状が改善される可能性があることが示唆されるが、それらの研究の大部分では、対象とされた患者数が少なく、二重盲検試験ではなかった。これらの研究の最近のメタアナリシスでは、カルニチン補給は貧血管理に役立つかもしれないが、血中脂質プロファイルの改善には役立たず、運動能力や心臓の安定性への影響は決定的なものではないことと結論づけられている。[<a href="#en42">42</a>]</p>
+
+<h4 class="sq">男性不妊症</h4>
+<p class="b40">精液中のカルニチン含有量は精子数と精子の運動率に直接関係があることから[<a href="#en43">43-44</a>]、男性の不妊治療を行う上で、カルニチンは重要であると示唆される。いくつかの研究によるでは、カルニチン補給（2～3 g／日3～4カ月間）を行うと精子の質が改善されることがあると示された[<a href="#en45">45-47</a>]。あるランダム化二重盲検クロスオーバー試験では、男性不妊症患者100例にカルニチン2 g／日を2カ月間摂取したところ、精子の濃度と精子の総運動率および前進運動率が増加した[<a href="#en48">48</a>]。この報告されている研究の利点はミトコンドリアの脂肪酸酸化の増加（より多くのエネルギーを精子に供給）と睾丸中の細胞死の減少に関係があるかもしれない[<a href="#en49">49</a>]。しかし、男性不妊症患者21例を対象とした最近のランダム化対照試験によると、カルニチン3 g／日を24週間摂取したところ、精子の運動率および総運動性精子数にプラセボ投与群と比べて有意な増加は認められなかった[<a href="#en50">50</a>]。不妊治療としてのカルニチンの潜在的な価値を評価するためには、大規模かつ綿密にデザインされた研究が必要となる。</p>
+
+<!-- End Column -->
+
+
+<!-- Column -->
+<h3 id="d07" class="line_gray">カルニチンを過剰摂取した場合の健康上のリスクは？</h3>
+<p class="b10">カルニチンの補給を約3 g／日の用量で摂取した場合、吐き気、嘔吐、腹部痙攣、下痢、「生臭い」体臭などの副作用を引き起こす場合がある[<a href="#en1">1-2</a>]。稀ではあるが、尿毒症患者には筋力低下、発作性疾患を有する患者には発作などの副作用が起こる可能性がある。</p>
+<p class="b40">いくつかの研究によると腸内細菌がカルニチンを代謝する際、心血管系疾患のリスクを増加させる可能性のあるトリメチルアミン‐N‐オキシド（TMAO）と呼ばれる物質を形成する[<a href="#en24">24</a>]。この現象はベーガン（完全菜食主義者）やベジタリアンの人よりも肉食の人に顕著に見られる。これらの研究結果の意味するところは十分に理解されておらず、さらなる研究が必要である。</p>
+<!-- End Column -->
+
+
+<!-- Column -->
+<h3 id="d08" class="line_gray">カルニチンと薬物相互作用</h3>
+<p class="b40">カルニチンは、尿路感染症の長期予防に使用されるピバンピシリンなどのピバリン酸抱合を受けた抗生物質と相互作用を示す[<a href="#en51">51</a>]。これらの抗生物質を長期にわたって投与すると、ピバロイルカルニチンの排出が増加し、カルニチン欠乏状態になる。しかし、脂肪酸酸化を制限されるほど組織内のカルニチン濃度が著しく低下する可能性があるものの、カルニチン欠乏による疾患の症例は報告されていない[<a href="#en1">1-6</a>]。痙攣を有する小児で、フェノバルピタール、バルプロ酸、フェニトイン、カルバマゼピンなどによる治療を行った場合、カルニチン血中濃度が減少する可能性があるが、臨床的に重大な影響は認められていない[<a href="#en52">52-53</a>]。</p>
+<!-- End Column -->
+
+
+<!-- Column -->
+<h3 id="d09" class="line_gray">カルニチンの補給源</h3>
+<p class="b40">L-カルチニン、アセチルL-カルチニン、プロピオニルL-カルチニンは、サプリメントとして処方箋なしで購入することができる。カルニチンは、しばしば体重減少の補助、運動能力の改善、健康感の増幅に役立つとして宣伝されている[<a href="#en2">2</a>]。さらに米国食品医薬品局（FDA）より承認されており、原発性および2次性カルニチン欠乏症の治療に使用されている。</p>
+<!-- End Column -->
+
+
+<!-- Column -->
+<h3 id="d10" class="line_gray">カルニチンの摂取と健康的な食事</h3>
+<p class="b10">カルニチンは体内で産生され、同様に食事からも摂取しているため、大抵の人は十分なカルニチンを確保している。「アメリカ人のための食生活指針」では健康的な食事を次のように述べている。</p>
+<div class="b10">
+<ul class="list_disc">
+<li>さまざまな種類の果物、野菜、全粒穀物、無脂肪もしくは低脂肪ミルクと乳製品を重視している
+<dl><dd>赤身の肉、鶏肉、魚肉、豆類、卵、ナッツなどを含んでいる</dd></dl>
+</li>
+<li>飽和脂肪酸、トランス脂肪酸、コレステロール、塩分（ナトリウム）および添加糖質の摂取を少なくする。
+<dl><dd>1日に必要なカロリー摂取量を超えない</dd></dl>
+</li>
+</ul>
+</div>
+<p class="b40">健康的な食事に関する詳細は<a href="http://www.cnpp.usda.gov/dietaryguidelines.htm" target="_blank" class="window">Dietary Guidelines for Americans（アメリカ人のための食生活指針）</a>と米国農務省の食事の指針システム、<a href="http://www.choosemyplate.gov/" target="_blank" class="window">MyPlate（私の食事）</a>を確認すること。<br />
+</p>
+<!-- End Column -->
+
+<!-- Column -->
+<h3 id="d11" class="line_gray">参考文献</h3>
+<div class="b40">
+<ol class="list_number">
+<li id="en1">Rebouche CJ. Carnitine. In: Modern Nutrition in Health and Disease, 9th Edition (edited by Shils ME, Olson JA, Shike M, Ross, AC). Lippincott Williams and Wilkins, New York, 1999, pp. 505-12.</li>
+<li id="en2">The editors. Carnitine: lessons from one hundred years of research. Ann NY Acad Sci 2004;1033:ix-xi.</li>
+<li id="en3">National Research Council. Food and Nutrition Board. Recommended Dietary Allowances, 10th Edition. National Academy Press, Washington, DC, 1989.</li>
+<li id="en4">Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes. 2005. http://www.iom.edu/project.asp?id=4574.</li>
+<li id="en5">Stanley CA. Carnitine deficiency disorders in children. Ann NY Acad Sci 2004;1033:42-51.</li>
+<li id="en6">Rebouche CJ. Kinetics, pharmacokinetics, and regulation of L-carnitine and acetyl-L-carnitine metabolism. Ann NY Acad Sci 2004;1033:30-41.</li>
+<li id="en7">Foster DW. The role of the carnitine system in human metabolism. Ann NY Acad Sci 2004;1033:1-16.</li>
+<li id="en8">Liu J, Head E, Kuratsune H, Cotman CW, Ames BN. Comparison of the effects of L-carnitine and acetyl-L-carnitine on carnitine levels, ambulatory activity, and oxidative stress biomarkers in the brain of old rats. Ann NY Acad Sci 2004;1033:117-31.</li>
+<li id="en9">Brass EP, Hiatt WR. The role of carnitine and carnitine supplementation during exercise in man and in individuals with special needs. J Am Coll Nutr 1998;17:207-15.</li>
+<li id="en10">Brass EP. Supplemental carnitine and exercise. Am J Clin Nutr 2000;72:618S-23S.</li>
+<li id="en11">Brass EP. Carnitine and sports medicine: use or abuse? Ann NY Acad Sci 2004;1033:67-78.</li>
+<li id="en12">Ames BN, Liu J. Delaying the mitochondrial decay of aging with acetylcarnitine. Ann NY Acad Sci 2004;1033:108-16.</li>
+<li id="en13">Hagen TM, Liu J, Lykkesfeldt J, Wehr CM, Ingersoll RT, Vinarsky V, Bartholomew JC, Ames BN. Feeding acetyl-L-carnitine and lipoic acid to old rats significantly improves metabolic function while decreasing oxidative stress. Proc Natl Acad Sci USA 2002;99:1870-5.</li>
+<li id="en14">Liu J, Killilea D, Ames BN. Age-associated mitochondrial oxidative decay: improvement of carnitine acetyltransferase substrate-binding affinity and activity in brain by feeding old rats acetyl-L-carnitine and/or R-a-lipoic acid. Proc Natl Acad Sci USA 2002;99:1876-81.</li>
+<li id="en15">Liu J, Head E, Gharib AM, Yuan W, Ingersoll RT, Hagen TM, Cotman CW, Ames BN. Memory loss in old rats is associated with brain mitochondrial decay and RNA/DNA oxidation: partial reversal by feeding acetyl-L-carnitine and/or R-a-lipoic acid. Proc Natl Acad Sci USA 2002;99:2356-61.</li>
+<li id="en16">Montgomery SA, Thal LJ, Amrein R. Meta-analysis of double blind randomized controlled clinical trials of acetyl-L-carnitine versus placebo in the treatment of mild cognitive impairment and mild Alzheimer's disease. Int Clin Psychopharmacol 2003;18:61-71.</li>
+<li id="en17">Ferrari R, Merli E, Cicchitelli G, Mele D, Fucili A, Ceconi C. Therapeutic effects of L-carnitine and propionyl-L-carnitine on cardiovascular diseases: a review. Ann NY Acad Sci 2004;1033:79-91.</li>
+<li id="en18">Hiatt WR. Carnitine and peripheral arterial disease. Ann NY Acad Sci 2004;1033:92-8.</li>
+<li id="en19">Tarantini G, Scrutinio D, Bruzzi P, Boni L, Rizzon P, Iliceto S. Metabolic treatment with L-carnitine in acute anterior ST segment elevation myocardial infarction. A randomized controlled trial. Cardiology 2006;106:215-23.</li>
+<li id="en20">DiNicolantonio JJ, Lavie CJ, Fares H, Menezes AR, O'Keefe JH. L-carnitine in the secondary prevention of cardiovascular disease: systematic review and meta-analysis. Mayo Clin Proc 2013. Apr 15. [Epub ahead of print]</li>
+<li id="en21">Brevetti G, Diehm C, Lambert D. European multicenter study on priopionyl-L-carnitine in intermittent claudication. J Am Coll Cardiol 1999;34:1618-24.</li>
+<li id="en22">Hiatt WR, Regensteiner JG, Creager MA, Hirsch AT, Cooke JP, Olin JW, Gorbunov GN, Isner J, Lukjanov YV, Tsitsiashvili MS, Zabelskaya TF, Amato A. Propionyl-L-carnitine improves exercise performance and functional status in patients with claudication. Am J Med 2001;110:616-22.</li>
+<li id="en23">Brass EP, Koster D, Hiatt WR, Amato A. A systematic review and meta-analysis of propionyl-L-carnitine effects on exercise performance in patients with claudication. Vasc Med 2013;18:3-12.</li>
+<li id="en24">Koeth RA, Wang Z, Levison BS, Buffa JA, Org E, Sheehy BT, Britt EB, Fu X, Wu Y, Li L, Smith JD, Didonato JA, Chen J, Li H, Wu GD, Lewis JD, Warrier M, Brown JM, Krauss RM, Tang WH, Bushman FD, Lusis AJ, Hazen SL. Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis. Nat Med. 2013 Apr 7. [Epub ahead of print]</li>
+<li id="en25">Cruciani RA, Dvorkin E, Homel P, Culliney B, Malamud S, Shaiova L, Fleishman S, Lapin J, Klein E, Lesage P, Portenoy R, Esteban-Cruciani N. L-carnitine supplementation for the treatment of fatigue and depressed mood in cancer patients with carnitine deficiency: a preliminary analysis. Ann NY Acad Sci 2004;1033:168-76.</li>
+<li id="en26">Graziano F, Bisonni R, Catalano V, Silva R, Rovidati S, Mencarini E, Ferraro B, Canestrari F, Baldelli AM, De Caetano A, Giordani P, Testa E, Lai V. Potential role of levocarnitine supplementation for the treatment of chemotherapy-induced fatigue in non-anaemic cancer patients. Br J Cancer 2002;86:1854-7.</li>
+<li id="en27">Mingrone G. Carnitine in type 2 diabetes. Ann NY Acad Sci 2004;1033:99-107.</li>
+<li id="en28">De Gaetano A, Mingrone G, Castagneto M, Calvani M. Carnitine increases glucose disposal in humans. J Am Coll Nutr 1999;18:289-95.</li>
+<li id="en29">Mingrone G, Greco AV, Capristo E, Benedetti G, Giancaterini A, De Gaetano A, Gasbarrini G. L-carnitine improves glucose disposal in type 2 diabetic patients. J Am Coll Nutr 1999;77-82.</li>
+<li id="en30">Sima AAF, Calvani M, Mehra M, Amato A. Acetyl-L-carnitine improves pain, nerve regeneration, and vibratory perception in patients with chronic diabetic neuropathy: an analysis of two randomized placebo-controlled trials. Diabetes Care 2005;28:96-101.</li>
+<li id="en31">Day L, Shikuma C, Gerschenson M. Acetyl-L-carnitine for the treatment of HIV lipoatrophy. Ann NY Acad Sci 2004;1033:139-46.</li>
+<li id="en32">Ilias I, Manoli I, Blackman MR, Gold PW, Slesci S. L-carnitine and acetyl-L-carnitine in the treatment of complications associated with HIV infection and antiretroviral therapy. Mitochondrion 2004;4:163-8.</li>
+<li id="en33">Moretti S, Alesse E, Di Marzio L, Zazzeroni F, Ruggeri B, Marcellini S, Famularo G, Steinberg SM, Boschini A, Cifone MG, De Simone C. Effect of L-carnitine on human immunodeficiency virus-1 infection-associated apoptosis: a pilot study. Blood 1998;91:3817-24.</li>
+<li id="en34">Di Marzio L, Moretti S, D'Alò S, Zazzeroni F, Marcellini S, Smacchia C, Alesse E, Cifone MG, De Simone C. Acetyl-L-carnitine administration increases insulin-like growth factor 1 levels in asymptomatic HIV-1-infected subjects: correlation with its suppressive effect on lymphocyte apoptosis and ceramide generation. Clin Immunol 1999;92:103-10.</li>
+<li id="en35">Scarpini E, Sacilotto G, Baron P, Cusini M, Scarlato G. Effect of acetyl-L-carnitine in the treatment of painful peripheral neuropathies in HIV+ patients. J Peripher Nerv Syst 1997;2:250-2.</li>
+<li id="en36">Simpson DM, Katzenstein D, Haidich B, Millington D, Yiannoutsos C, Schifitto G, McArthur J. Plasma carnitine in HIV-associated neuropathy. AIDS 2001;15:2207-8.</li>
+<li id="en37">Osio M, Muscia F, Zampini L, Nascimbene C, Mailland E, Cargnel A, Mariani C. Acetyl-l-carnitine in the treatment of painful antiretroviral neuropathy in human immunodeficiency virus patients: an open label study. J Peripher Nerv Syst 2006;11:72-6.</li>
+<li id="en38">De Simone C, Famularo G, Tzantzoglou S, Trinchieri V, Moretti S, Sorice F. Carnitine depletion in peripheral blood mononuclear cells from patients with AIDS: effect of oral L-carnitine. AIDS 1994;8:655-60.</li>
+<li id="en39">Loignon M, Toma E. L-carnitine for the treatment of highly active antiretroviral therapy-related hypertriglyceridemia in HIV-infected adults. AIDS 2001;15:1194-5.</li>
+<li id="en40">Mauss S, Schmutz G. L-carnitine in the treatment of HIV-associated lipodystrophy syndrome. HIV Med 2001:2:59-60.</li>
+<li id="en41">Calvani M, Benatti P, Mancinelli A, D'Iddio S, Giordano V, Koverech A, Amato A, Brass EP. Carnitine replacement in end-stage renal disease and hemodialysis. Ann NY Acad Sci 2004;1033:52-66.</li>
+<li id="en42">Hurot J-M, Cucherat M, Haugh M, Fouque D. Effects of L-carnitine supplementation in maintenance hemodialysis patients: a systematic review. J Am Soc Nephrol 2002;13:708-14.</li>
+<li id="en43">Menchini-Fabris GF, Canale D, Izzo PL, Olivieri L, Bartelloni M. Free L-carnitine in human semen: its variability in different andrologic pathologies. Fertil Steril 1984;42:263-7.</li>
+<li id="en44">Matalliotakis I, Koumantaki Y, Evageliou A, Matalliotakis G, Goumenou A, Koumantakis E. L-carnitine levels in the seminal plasma of fertile and infertile men: correlation with sperm quality. Int J Fertil Womens Med 2000;45:236-40.</li>
+<li id="en45">Costa M, Canale D, Filicori M, D'Iddio S, Lenzi A. L-carnitine in idiopathic asthenozoospermia: a multicenter study. Italian study group on carnitine and male infertility. Andrologia 1994;3:155-9.</li>
+<li id="en46">Vitali G, Parente R, Melotti C. Carnitine supplementation in human idiopathic asthenospermia: clinical results. Drugs Exp Clin Res 1995;21:157-9.</li>
+<li id="en47">Vicari E, Calogero AE. Effects of treatment with carnitines in infertile patients with prostato-vesiculo-epididymitis. Hum Reprod 2001;16:2338-42.</li>
+<li id="en48">Lenzi A, Lombardo F, Sgrò P, Salacone P, Caponecchia L, Dondero F, Gandini L. Use of carnitine therapy in selected cases of male factor infertility: a double-blind crossover trial. Fertil Steril 2003;79:292-300.</li>
+<li id="en49">Ng CM, Blackman MR, Wang C, Swerdloff RS. The role of carnitine in the male reproductive system. Ann NY Acad Sci 2004;1033:177-88.</li>
+<li id="en50">Sigman M, Glass S, Campagnone J, Pryor JL. Carnitine for the treatment of idiopathic asthenospermia: a randomized, double-blind, placebo-controlled trial. Fertil Steril 2006;in press.</li>
+<li id="en51">Brass EP. Pivalate-generating prodrugs and carnitine homeostasis in man. Pharmacol Rev 2002;54:589-98.</li>
+<li id="en52">Hug G, McGraw CA, Bates SR, Landrigan EA. Reduction of serum carnitine concentrations during anticonvulsant therapy with phenobarbital, valproic acid, phenytoin, and carbamazepine in children. J Pediatr 1991;119:799-802.</li>
+<li id="en53">Castro-Gago M, Eiris-Punal J, Novo-Rodriguez MI, Couceiro J, Camina F, Rodriguez-Segade S. Serum carnitine levels in epileptic children before and during treatment with valproic acid, carbamazepine, and phenobarbital. J Child Neurol 1998;13:546-9.
+</li>
+</ol>
+</div>
+<!-- End Column -->
+
+
+<!-- Column --><div id="d12"><!-- #BeginLibraryItem "/Library/overseas_attention02.lbi" --><div class="b40">
+<div class="box_line_gray_p20">
+<h4 class="normal_ttl">【免責事項】</h4>
+<p>ダイエタリーサプリメント室が作成したこのファクトシートは、情報を提供するものであり、医師のアドバイスの代わりになるものではありません。サプリメントに関する興味・関心、疑問、利用法、何があなたの健康全般のために最善かについて尋ねたい場合は、医療スタッフ（医師、管理栄養士、薬剤師など）に相談することをお勧めします。この文書内で言及している個別の商品名は、その製品を推奨しているものではありません。</p>
+</div>
+</div><!-- #EndLibraryItem --></div><!-- End Column -->
+
+
+<!-- Column -->
+<div class="b20">
+<p class="note">監訳：伊藤壽記（大阪大学）、大野智（帝京大学）　翻訳公開日：2014年3月28日</p>
+</div>
+<!-- End Column -->
+
+
+<!-- Column --><!-- #BeginLibraryItem "/Library/overseas_attention01.lbi" --><div class="box_line_gray_bwlgray_p15">ご注意：この日本語訳は、専門家などによる翻訳のチェックを受けて公開していますが、訳語の間違いなどお気づきの点がございましたら、当ホームページの<a href="../../../inquiry">「ご意見・ご感想」</a>でご連絡ください。なお、国立衛生研究所［米国］、国立補完統合衛生センター［米国］、国立がん研究所［米国］のオリジナルサイトでは、不定期に改訂がおこなわれています。<br />
+当該事業では、最新版の日本語訳を掲載するよう努めておりますが、編集作業に伴うタイム・ラグが生じている場合もあります。ご利用に際しては、最新版（英語版）の内容をご確認ください。</div><!-- #EndLibraryItem --><!-- End Column -->
+
+
+</div>
+<!-- End Main -->
+
+
+<!-- Sub -->
+<div id="sub"><!-- #BeginLibraryItem "/Library/sn_pro_overseas_c03.lbi" --><ul class="subnavi">
+<li><a href="../index.html#c01">相補(補完)・代替療法との向き合い方</a></li>
+<li><a href="../index.html#c05">各種疾患</a></li>
+<li><a href="../index.html#c02">各種施術・療法</a></li>
+<li><a href="../index.html#c03">サプリメント・ビタミン・ミネラル</a>
+<ul>
+<li><a href="01.html" class="pro_c03_01">カルシウム</a></li>
+<li><a href="02.html" class="pro_c03_02">カルニチン</a></li>
+<li><a href="03.html" class="pro_c03_03">クロミウム</a></li>
+<li><a href="04.html" class="pro_c03_04">エフェドラ</a></li>
+<li><a href="05.html" class="pro_c03_05">葉酸塩</a></li>
+<li><a href="06.html" class="pro_c03_06">ヨウ素</a></li>
+<li><a href="07.html" class="pro_c03_07">鉄</a></li>
+<li><a href="08.html" class="pro_c03_08">マグネシウム</a></li>
+<li><a href="09.html" class="pro_c03_09">マルチビタミン・ミネラル</a></li>
+<li><a href="10.html" class="pro_c03_10">オメガ3系脂肪酸</a></li>
+<li><a href="11.html" class="pro_c03_11">セレニウム</a></li>
+<li><a href="12.html" class="pro_c03_12">セイヨウカノコソウ</a></li>
+<li><a href="13.html" class="pro_c03_13">ビタミンA</a></li>
+<li><a href="14.html" class="pro_c03_14">ビタミンB12</a></li>
+<li><a href="15.html" class="pro_c03_15">ビタミンB6</a></li>
+<li><a href="16.html" class="pro_c03_16">ビタミンC</a></li>
+<li><a href="17.html" class="pro_c03_17">ビタミンD</a></li>
+<li><a href="18.html" class="pro_c03_18">ビタミンE</a></li>
+<li><a href="19.html" class="pro_c03_19">亜鉛</a></li>
+<li><a href="20.html" class="pro_c03_20">S-アデノシルメチオニン</a></li>
+<li><a href="21.html" class="pro_c03_21">グルコサミンとコンドロイチン</a></li>
+<li><a href="22.html" class="pro_c03_22">ジメチル・スルホキシドとメチルスルフォニルメタン</a></li>
+<li><a href="23.html" class="pro_c03_23">コエンザイムQ10</a></li>
+</ul>
+</li>
+<li><a href="../index.html#c04">ハーブ</a></li>
+</ul><!-- #EndLibraryItem --></div>
+<!-- End Sub -->
+
+
+</div>
+<!-- End Contents Area -->
+
+
+</div>
+</div>
+<!-- End Wrapper -->
+
+
+<!-- Footer --><!-- #BeginLibraryItem "/Library/footer.lbi" --><div id="footer">
+<div class="inner clearfix">
+<div class="footerR clearfix">
+<div class="mhlw_img"><a href="http://www.mhlw.go.jp" target="_blank"><img src="../../../common/img/img_mhlw.gif" width="42" height="45" alt="厚生労働省" /></a></div>
+<div class="mhlw_text">「統合医療」情報発信サイトは、厚生労働省「統合医療」に係る情報発信等推進事業に基づき、患者・国民及び医療者が「統合医療」に関する適切な情報を入手するために構築されたHPです。</div>
+</div>
+<div class="footerL">
+<div class="fn">
+<ul class="list_arrow_inline clearfix">
+<li><a href="../../../utility/sitemap.html">サイトマップ</a></li>
+<li><a href="../../../utility/privacy.html">プライバシーポリシー</a></li>
+<li><a href="../../../utility/copyright.html">リンク・著作物使用手続き・著作権など</a></li>
+</ul>
+</div>
+<div class="copyright">Copyright (c) Osaka University. All Rights Reserved.</div>
+</div>
+</div>
+</div>
+
+<!-- Pagetop SP -->
+<div id="pagetop_sp"><a href="#header_sp">ページトップ</a></div>
+<!-- Pagetop SP --><!-- #EndLibraryItem --><!-- End Footer -->
+
+
+<!-- Pagetop -->
+<div id="pagetop"><a href="#header">ページトップ</a></div>
+<!-- End Pagetop -->
+
+
+</body>
+
+
+</html>s�V��      \�d�\�d�@.�       4    :http://www.ejim.ncgg.go.jp/pro/overseas/c03/02.html necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 25 Mar 2019 05:18:25 GMT
+Server: Apache
+Last-Modified: Tue, 27 Feb 2018 00:52:06 GMT
+ETag: "4001ba-d09b-566270919d980"
+Accept-Ranges: bytes
+Content-Length: 53403
+Cache-Control: max-age=0
+Expires: Mon, 25 Mar 2019 05:18:25 GMT
+Content-Type: text/html
+ original-response-headers Date: Mon, 25 Mar 2019 05:18:25 GMT
+Server: Apache
+Last-Modified: Tue, 27 Feb 2018 00:52:06 GMT
+ETag: "4001ba-d09b-566270919d980"
+Accept-Ranges: bytes
+Content-Length: 53403
+Cache-Control: max-age=0
+Expires: Mon, 25 Mar 2019 05:18:25 GMT
+Connection: close
+Content-Type: text/html
+ uncompressed-len 0 predictor::resource-count 81 predictor::http://www.ejim.ncgg.go.jp/common/css/default.css 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/css/frame.css 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/css/frame_sp.css 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/css/contents.css 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/css/print.css 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/js/library.js 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/js/navi_dir3.js 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/js/jquery-1.9.1.min.js 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/js/jquery-ui-1.8.18.custom.min.js 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/js/jquery.plugin.js 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/js/pagetop.js 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/logo.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/btn_en.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img_sp/logo.svg 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img_sp/btn_utility.svg 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_publicnew.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pronew.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_about.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_communication.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_doc.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_overseas.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img_sp/gn_public.svg 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img_sp/gn_pro.svg 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img_sp/gn_doc.svg 1,1,1553491105,4097 net-response-time-onstart 123 net-response-time-onstop 185 predictor::http://www.ejim.ncgg.go.jp/common/img/img_mhlw.gif 1,1,1553491105,4097 predictor::http://www.google-analytics.com/analytics.js 1,1,1553491105,4096 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_publicnew_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_about_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_about.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_link_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_link.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_hint_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_hint.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_doc_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_doc.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_overseas_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_overseas.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pronew_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_about_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_communication_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_doc_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_link_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_link.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_overseas_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_food_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_food.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_cochrane_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_cochrane.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_research_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_research.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_other_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_other.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_un_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_public_un.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_un_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_un.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_un_over.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_doc_un.gif 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/about_btn_over.png 1,1,1553491105,4097 predictor::http://www.ejim.ncgg.go.jp/common/img/about_btn.png 1,1,1553491105,4097 predictor::http://www.google.com/cse/cse.js?cx=000742836744927002512:vufafczllvc 1,1,1553491105,4096 predictor::http://www.ejim.ncgg.go.jp/common/img/icon_arrow.gif 1,1,1553491105,4096 predictor::http://www.ejim.ncgg.go.jp/common/img/gn_pro_bg.gif 1,1,1553491105,4096 predictor::http://www.ejim.ncgg.go.jp/common/img/h2_pro_bg.gif 1,1,1553491105,4096 predictor::http://www.ejim.ncgg.go.jp/common/img/icon_window.gif 1,1,1553491105,4096 predictor::http://www.ejim.ncgg.go.jp/common/img/icon_sq_pro.gif 1,1,1553491105,4096 predictor::http://www.ejim.ncgg.go.jp/common/img/icon_arrow_pro.gif 1,1,1553491105,4096 predictor::http://www.ejim.ncgg.go.jp/common/img/icon_arrow_gray.gif 1,1,1553491105,4096 predictor::http://www.ejim.ncgg.go.jp/common/img/icon_arrow_pro_sec.gif 1,1,1553491105,4096 predictor::http://www.ejim.ncgg.go.jp/common/img/icon_pagetop.png 1,1,1553491105,4096 predictor::https://www.google.com/cse/static/element/af400e744a60d2b3/cse_element__ja.js?usqp=CAI%3D 1,1,1553491105,4096 predictor::https://www.google.com/cse/static/element/af400e744a60d2b3/default+ja.css 1,1,1553491105,4096 predictor::https://www.google.com/cse/static/style/look/v2/default.css 1,1,1553491105,4096 predictor::http://cse.google.com/adsense/search/async-ads.js 1,1,1553491105,4096 predictor::https://www.googleapis.com/generate_204 1,1,1553491105,4096 predictor::https://www.google.com/cse/static/images/1x/googlelogo_grey_46x15dp.png 1,1,1553491105,4096 predictor::https://www.google.com/cse/static/css/v2/clear.png 1,1,1553491105,4096 predictor::http://clients1.google.com/generate_204 1,1,1553491105,4096 predictor::http://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png 1,1,1553491105,4096   Л

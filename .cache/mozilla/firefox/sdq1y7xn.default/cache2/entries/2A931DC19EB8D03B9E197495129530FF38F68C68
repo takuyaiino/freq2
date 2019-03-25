@@ -1,0 +1,748 @@
+@charset "UTF-8";
+
+
+
+/*======================================================================================================================
+========================================================================================================================
+
+frame_sp.css
+
+全体フレーム・ヘッダー・フッター用（後半にスマホ用ソースあり）
+
+========================================================================================================================
+======================================================================================================================*/
+
+
+
+
+/* スマホ用スタイル（上記PC用をすべてコピーし、調整）
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+@media screen and (max-width:768px) {
+
+
+/* フレーム全体
+-------------------------------------------------------------------------------------------------------- */
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: center;
+	background: #f5f5f5;
+}
+
+#wrapper_bg {
+	background-color: #FFF;
+}
+#wrapper {
+	padding: 0px 0px 0px 0px;
+	width:  100%;
+	margin: 0px auto;
+	text-align: left;
+	clear: both;
+}
+
+
+
+
+
+/* ヘッダー
+-------------------------------------------------------------------------------------------------------- */
+
+/* PC用非表示
+-------------------------------------- */
+#header {
+	display: none;
+}
+
+
+/* スマホ用
+-------------------------------------- */
+#header_sp {
+	display: block;
+	margin: 0px 0px 20px 0px;
+	padding: 10px 0px 0px 0px;
+	border-top: solid 5px #777;
+	position: relative;
+}
+#header_sp .logo {
+	display: block;
+	padding: 3px 0px 3px 20px;
+}
+#header_sp .logo img {
+	width: 65%;
+	height: auto;
+}
+
+
+/* スマホユーティリティナビ
+-------------------------------------- */
+/* ボタン */
+#header_sp .btn_un {
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 1;
+}
+#header_sp .btn_un a {
+	display: table-cell;
+	width: 18vw;
+	height: 18vw;
+	vertical-align: middle;
+	background: #777777;
+	text-align: center;
+}
+#header_sp .btn_un a img {
+	width: 50%;
+}
+
+/* ナビ */
+#header_sp .utility {
+	position: relative;
+	padding: 0;
+	background: #EEEEEE;
+	z-index: 999;
+	display: block;
+}
+#header_sp .utility ul li a {
+	display: block;
+	padding: 15px 20px;
+	border-bottom: 1px solid #FFFFFF;	
+}
+#header_sp .utility a {
+	color: #000000 !important;
+	text-decoration: none !important;
+}
+
+
+/* カスタム検索 */
+#header_sp .search {
+	background: #EEEEEE;
+	padding: 15px 20px;
+	border-bottom: 1px solid #FFFFFF;	
+}
+
+#header_sp #___gcse_0 {
+    width: 480px !important;
+}
+#header_sp .cse .gsc-control-cse, #header_sp .gsc-control-cse {
+	padding: 0em !important;
+	background: #EEEEEE !important;
+	border: none !important;
+}
+
+#header_sp .gsc-results-wrapper-overlay {
+	border: solid 1px #CCC !important;
+}
+#header_sp .gsc-thumbnail-inside {
+	text-align: left !important;
+	line-height: 190% !important;
+}
+#header_sp .gs-webResult.gs-result a.gs-title:link,
+#header_sp .gs-webResult.gs-result a.gs-title:link b,
+#header_sp .gs-imageResult a.gs-title:link,
+#header_sp .gs-imageResult a.gs-title:link b {
+	color: #03F !important;
+	text-decoration: underline !important;
+}
+
+
+
+#header_sp .gsc-input td {
+	padding: 6px 0 !important;
+}
+
+#header_sp .gsc-input-box {
+	height: auto !important;
+}
+#header_sp .gsc-input input {
+	padding: 6px 0 !important;
+	
+}
+
+#header_sp .cse .gsc-search-button input.gsc-search-button-v2,
+#header_sp input.gsc-search-button-v2 {
+  width: 20px;
+  height: 20px;
+  padding: 10px 20px;
+  min-width: 13px;
+  margin-top: 2px;
+}
+
+
+
+
+
+
+/* グローバルナビエリア
+-------------------------------------------------------------------------------------------------------- */
+
+/* PC用ナビ非表示
+-------------------------------------- */
+#gnavi {
+	display: none;
+}
+
+
+/* スマホグローバルナビ
+-------------------------------------- */
+#gnavi_sp {
+	display: block;
+	padding: 0 20px 20px;
+}
+#gnavi_sp .navi {
+
+}
+
+#gnavi_sp .navi li.public,
+#gnavi_sp .navi li.pro,
+#gnavi_sp .navi li.doc {
+	position: relative;
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	margin-bottom: 2vw;
+	padding: 0 2vw;
+	background-image: url(../img_sp/bg_btn_gn.png);
+	background-position: 0 -5.5em;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	text-align: center;
+	border-radius: 5px;
+}
+#gnavi_sp .navi li.public {
+	border: 3px solid #c75a69;
+	background-color: #D75C6D;
+}
+#gnavi_sp .navi li.pro {
+	border: 3px solid #449ec4;
+	background-color: #43acd8;
+}
+#gnavi_sp .navi li.doc {
+	border: 3px solid #779f00;
+	background-color: #85b200;
+}
+#gnavi_sp .navi li.public a,
+#gnavi_sp .navi li.pro a,
+#gnavi_sp .navi li.doc a {
+	display: block;
+}
+#gnavi_sp .navi li .img_svg {
+	margin: 4% 0;
+	height: 5.5vw;
+}
+#gnavi_sp .navi li.public a .img_svg {
+	filter: drop-shadow(0px 0px 1px rgba(132,56,67,0.8));
+}
+#gnavi_sp .navi li.pro a .img_svg {
+	filter: drop-shadow(0px 0px 1px rgba(39,103,129,0.8));
+}
+#gnavi_sp .navi li.doc a .img_svg {
+	filter: drop-shadow(0px 0px 1px rgba(39,103,129,0.8));
+}
+
+/* プルダウン */
+#gnavi_sp .navi li .gn_sub {
+	display: none;
+}
+
+#gnavi_sp .navi li .gn_sub li {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	margin-bottom: 1.5vw;
+	text-align: center;
+	border-radius: 5px;
+	box-sizing: border-box;
+	background-color: #EEEEEE;
+	background: linear-gradient(#fefffe, #f0eff0);
+	box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.3);
+}
+#gnavi_sp .navi li .gn_sub li a {
+	display: block;
+	padding: 3.5% 0;
+	text-decoration: none;
+	color: #666666;
+	font-size: 4vw;
+	font-weight: bold;
+}
+
+
+
+
+
+/* コンテンツエリア （#contents #main #sub）
+-------------------------------------------------------------------------------------------------------- */
+
+
+/* コンテンツ全体枠
+----------------------------- */
+#contents {
+	padding: 0px 20px 0px 20px; /* _______________________________スマホ*/
+	background: #FFF;
+	position: relative; /* _______________________________スマホ*/
+}
+
+
+/* メインエリア
+----------------------------- */
+#main {
+	margin: 0px;
+	padding: 0px 0px 30px 0px; /* _______________________________スマホ*/
+	width: 100%; /* _______________________________スマホ*/
+	float: none; /* _______________________________スマホ*/
+}
+
+#main img {
+	margin:        0px;
+	padding:       0px;
+	border:        0px;
+	line-height:   0;
+	width: 100%; /* _______________________________スマホ*/
+	height: auto; /* _______________________________スマホ*/
+}
+
+
+
+/* サブナビゲーション
+-------------------------------------------------------------------------------------------------------- */
+
+/* エリア
+----------------------------- */
+#sub {
+	width: 100%; /* _______________________________スマホ*/
+	float: none; /* _______________________________スマホ*/
+}
+
+/* サブナビ全体 */
+#sub ul.subnavi {
+	border: solid 1px #CCC;
+	border-left: none; /* _______________________________スマホ*/
+	border-right: none; /* _______________________________スマホ*/
+	border-width: 0px 1px 1px 1px;
+	margin: 0 -20px; /* _______________________________スマホ*/
+}
+#sub ul.subnavi li ul {
+	border-width: 0px;
+}
+#sub ul.subnavi li ul li {
+	border-width: 0px;
+}
+#sub ul.subnavi a {
+	color: #666;
+	text-decoration: none;
+}
+
+/* 1階層目 */
+#sub ul.subnavi li a {
+	display: block;
+	padding: 15px 8px 15px 22px; /* _______________________________スマホ*/
+	border: solid 1px #CCC;
+	border-width: 1px 0px 0px 0px;
+}
+#public #sub ul.subnavi li a { background: #FDF7F8 url(../img/icon_arrow_public.gif) 10px center no-repeat; } /* _______________________________スマホ*/
+#public #sub ul.subnavi li a:hover { background: #F9E7EA url(../img/icon_arrow_public.gif) 10px center no-repeat; } /* _______________________________スマホ*/
+#pro #sub ul.subnavi li a { background: #F5FBFD url(../img/icon_arrow_pro.gif) 10px center no-repeat; } /* _______________________________スマホ*/
+#pro #sub ul.subnavi li a:hover { background: #E3F3F9 url(../img/icon_arrow_pro.gif) 10px center no-repeat; } /* _______________________________スマホ*/
+#doc #sub ul.subnavi li a { background: #F5FFED url(../img/icon_arrow_doc.gif) 10px center no-repeat; } /* _______________________________スマホ*/
+#doc #sub ul.subnavi li a:hover { background: #E5F5DD url(../img/icon_arrow_doc.gif) 10px center no-repeat; } /* _______________________________スマホ*/
+#utility #sub ul.subnavi li a { background: #F5F5F5 url(../img/icon_arrow_gray.gif) 10px center no-repeat; } /* _______________________________スマホ*/
+#utility #sub ul.subnavi li a:hover { background: #EEE url(../img/icon_arrow_gray.gif) 10px center no-repeat; } /* _______________________________スマホ*/
+
+/* アクティブ */
+.public01 #sub ul.subnavi li a.public01,
+.public02 #sub ul.subnavi li a.public02,
+.public03 #sub ul.subnavi li a.public03,
+.public04 #sub ul.subnavi li a.public04,
+.public05 #sub ul.subnavi li a.public05 {
+	color: #FFF;
+	background: #DA5D6F url(../img/icon_arrow_public_sec.gif) 10px center no-repeat !important; /* _______________________________スマホ*/
+}
+.public01_2 #sub ul.subnavi li a.public01_2,
+.public02_2 #sub ul.subnavi li a.public02_2,
+.public03_2 #sub ul.subnavi li a.public03_2,
+.public04_2 #sub ul.subnavi li a.public04_2,
+.public05_2 #sub ul.subnavi li a.public05_2 {
+	color: #FFF;
+	background: #DA5D6F url(../img/icon_arrow_public_sec.gif) 10px center no-repeat !important; /* _______________________________スマホ*/
+}
+.pro01 #sub ul.subnavi li a.pro01,
+.pro02 #sub ul.subnavi li a.pro02,
+.pro03 #sub ul.subnavi li a.pro03,
+.pro04 #sub ul.subnavi li a.pro04,
+.pro05 #sub ul.subnavi li a.pro05 {
+	color: #FFF;
+	background: #43ACD8 url(../img/icon_arrow_pro_sec.gif) 10px center no-repeat !important; /* _______________________________スマホ*/
+}
+
+/* 2階層目 */
+#sub ul.subnavi li ul li a {
+	padding: 6px 8px 5px 37px;
+	border: dashed 1px #DDD;
+	border-width: 1px 0px 0px 0px;
+}
+#public #sub ul.subnavi li ul li a,
+#pro #sub ul.subnavi li ul li a,
+#doc #sub ul.subnavi li ul li a { 
+	background: #FFF url(../img/icon_arrow_gray.gif) 25px center no-repeat; /* _______________________________スマホ*/
+}
+#public #sub ul.subnavi li ul li a:hover,
+#pro #sub ul.subnavi li ul li a:hover,
+#doc #sub ul.subnavi li ul li a:hover {
+	background: #F5F5F5 url(../img/icon_arrow_gray.gif) 25px center no-repeat; /* _______________________________スマホ*/
+}
+
+/* アクティブ */
+.public_c01 #sub ul.subnavi li ul li a.public_c01,
+.public_c02 #sub ul.subnavi li ul li a.public_c02,
+.public_c03 #sub ul.subnavi li ul li a.public_c03,
+.public_c04 #sub ul.subnavi li ul li a.public_c04,
+.public_c05 #sub ul.subnavi li ul li a.public_c05,
+.public_c06 #sub ul.subnavi li ul li a.public_c06,
+.public_c07 #sub ul.subnavi li ul li a.public_c07,
+.public_c08 #sub ul.subnavi li ul li a.public_c08,
+.public_c09 #sub ul.subnavi li ul li a.public_c09,
+.public_c10 #sub ul.subnavi li ul li a.public_c10,
+.public_c11 #sub ul.subnavi li ul li a.public_c11,
+.public_c01_01 #sub ul.subnavi li ul li a.public_c01_01,
+.public_c01_02 #sub ul.subnavi li ul li a.public_c01_02,
+.public_c01_03 #sub ul.subnavi li ul li a.public_c01_03,
+.public_c01_04 #sub ul.subnavi li ul li a.public_c01_04,
+.public_c02_01 #sub ul.subnavi li ul li a.public_c02_01,
+.public_c02_02 #sub ul.subnavi li ul li a.public_c02_02,
+.public_c02_03 #sub ul.subnavi li ul li a.public_c02_03,
+.public_c02_04 #sub ul.subnavi li ul li a.public_c02_04,
+.public_c02_05 #sub ul.subnavi li ul li a.public_c02_05,
+.public_c02_06 #sub ul.subnavi li ul li a.public_c02_06,
+.public_c02_07 #sub ul.subnavi li ul li a.public_c02_07,
+.public_c02_08 #sub ul.subnavi li ul li a.public_c02_08,
+.public_c02_09 #sub ul.subnavi li ul li a.public_c02_09,
+.public_c02_10 #sub ul.subnavi li ul li a.public_c02_10,
+.public_c02_11 #sub ul.subnavi li ul li a.public_c02_11,
+.public_c02_12 #sub ul.subnavi li ul li a.public_c02_12,
+.public_c02_13 #sub ul.subnavi li ul li a.public_c02_13,
+.public_c03_01 #sub ul.subnavi li ul li a.public_c03_01,
+.public_c03_02 #sub ul.subnavi li ul li a.public_c03_02,
+.public_c03_03 #sub ul.subnavi li ul li a.public_c03_03,
+.public_c03_04 #sub ul.subnavi li ul li a.public_c03_04,
+.public_c03_05 #sub ul.subnavi li ul li a.public_c03_05,
+.public_c03_06 #sub ul.subnavi li ul li a.public_c03_06,
+.public_c03_07 #sub ul.subnavi li ul li a.public_c03_07,
+.public_c03_08 #sub ul.subnavi li ul li a.public_c03_08,
+.public_c03_09 #sub ul.subnavi li ul li a.public_c03_09,
+.public_c03_10 #sub ul.subnavi li ul li a.public_c03_10,
+.public_c03_11 #sub ul.subnavi li ul li a.public_c03_11,
+.public_c03_12 #sub ul.subnavi li ul li a.public_c03_12 {
+	color: #FFF;
+	background: #DA5D6F url(../img/icon_arrow_public_sec.gif) 25px center no-repeat !important; /* _______________________________スマホ*/
+}
+.public_c01_2 #sub ul.subnavi li ul li a.public_c01_2,
+.public_c02_2 #sub ul.subnavi li ul li a.public_c02_2,
+.public_c03_2 #sub ul.subnavi li ul li a.public_c03_2,
+.public_c04_2 #sub ul.subnavi li ul li a.public_c04_2 {
+	color: #FFF;
+	background: #DA5D6F url(../img/icon_arrow_public_sec.gif) 25px center no-repeat !important; /* _______________________________スマホ*/
+}
+
+.doc_c01 #sub ul.subnavi li ul li a.doc_c01,
+.doc_c02 #sub ul.subnavi li ul li a.doc_c02,
+.doc_c03 #sub ul.subnavi li ul li a.doc_c03,
+.doc_c04 #sub ul.subnavi li ul li a.doc_c04,
+.doc_c05 #sub ul.subnavi li ul li a.doc_c05,
+.doc_c06 #sub ul.subnavi li ul li a.doc_c06,
+.doc_c07 #sub ul.subnavi li ul li a.doc_c07,
+.doc_c08 #sub ul.subnavi li ul li a.doc_c08,
+.doc_c09 #sub ul.subnavi li ul li a.doc_c09,
+.doc_c10 #sub ul.subnavi li ul li a.doc_c10,
+.doc_c11 #sub ul.subnavi li ul li a.doc_c11,
+.doc_c12 #sub ul.subnavi li ul li a.doc_c12,
+.doc_c13 #sub ul.subnavi li ul li a.doc_c13,
+.doc_c14 #sub ul.subnavi li ul li a.doc_c14,
+.doc_c15 #sub ul.subnavi li ul li a.doc_c15,
+.doc_c16 #sub ul.subnavi li ul li a.doc_c16,
+.doc_c17 #sub ul.subnavi li ul li a.doc_c17,
+.doc_c18 #sub ul.subnavi li ul li a.doc_c18,
+.doc_c19 #sub ul.subnavi li ul li a.doc_c19,
+.doc_c20 #sub ul.subnavi li ul li a.doc_c20,
+.doc_c21 #sub ul.subnavi li ul li a.doc_c21,
+.doc_c22 #sub ul.subnavi li ul li a.doc_c22,
+.doc_c23 #sub ul.subnavi li ul li a.doc_c23,
+.doc_c24 #sub ul.subnavi li ul li a.doc_c24,
+.doc_c25 #sub ul.subnavi li ul li a.doc_c25,
+.doc_c26 #sub ul.subnavi li ul li a.doc_c26,
+.doc_c27 #sub ul.subnavi li ul li a.doc_c27,
+.doc_c28 #sub ul.subnavi li ul li a.doc_c28,
+.doc_e01 #sub ul.subnavi li ul li a.doc_e01,
+.doc_e02 #sub ul.subnavi li ul li a.doc_e02,
+.doc_e03 #sub ul.subnavi li ul li a.doc_e03,
+.doc_e05 #sub ul.subnavi li ul li a.doc_e05{
+	color: #FFF;
+	background: #85B200 url(../img/icon_arrow_doc_sec.gif) 25px center no-repeat !important; /* _______________________________スマホ*/
+}		
+.pro_c01_01 #sub ul.subnavi li ul li a.pro_c01_01,
+.pro_c02_01 #sub ul.subnavi li ul li a.pro_c02_01,
+.pro_c02_02 #sub ul.subnavi li ul li a.pro_c02_02,
+.pro_c02_03 #sub ul.subnavi li ul li a.pro_c02_03,
+.pro_c02_04 #sub ul.subnavi li ul li a.pro_c02_04,
+.pro_c02_05 #sub ul.subnavi li ul li a.pro_c02_05,
+.pro_c02_06 #sub ul.subnavi li ul li a.pro_c02_06,
+.pro_c02_07 #sub ul.subnavi li ul li a.pro_c02_07,
+.pro_c02_08 #sub ul.subnavi li ul li a.pro_c02_08,
+.pro_c02_09 #sub ul.subnavi li ul li a.pro_c02_09,
+.pro_c02_10 #sub ul.subnavi li ul li a.pro_c02_10,
+.pro_c02_11 #sub ul.subnavi li ul li a.pro_c02_11,
+.pro_c02_12 #sub ul.subnavi li ul li a.pro_c02_12,
+.pro_c02_13 #sub ul.subnavi li ul li a.pro_c02_13,
+.pro_c03_01 #sub ul.subnavi li ul li a.pro_c03_01,
+.pro_c03_02 #sub ul.subnavi li ul li a.pro_c03_02,
+.pro_c03_03 #sub ul.subnavi li ul li a.pro_c03_03,
+.pro_c03_04 #sub ul.subnavi li ul li a.pro_c03_04,
+.pro_c03_05 #sub ul.subnavi li ul li a.pro_c03_05,
+.pro_c03_06 #sub ul.subnavi li ul li a.pro_c03_06,
+.pro_c03_07 #sub ul.subnavi li ul li a.pro_c03_07,
+.pro_c03_08 #sub ul.subnavi li ul li a.pro_c03_08,
+.pro_c03_09 #sub ul.subnavi li ul li a.pro_c03_09,
+.pro_c03_10 #sub ul.subnavi li ul li a.pro_c03_10,
+.pro_c03_11 #sub ul.subnavi li ul li a.pro_c03_11,
+.pro_c03_12 #sub ul.subnavi li ul li a.pro_c03_12,
+.pro_c03_13 #sub ul.subnavi li ul li a.pro_c03_13,
+.pro_c03_14 #sub ul.subnavi li ul li a.pro_c03_14,
+.pro_c03_15 #sub ul.subnavi li ul li a.pro_c03_15,
+.pro_c03_16 #sub ul.subnavi li ul li a.pro_c03_16,
+.pro_c03_17 #sub ul.subnavi li ul li a.pro_c03_17,
+.pro_c03_18 #sub ul.subnavi li ul li a.pro_c03_18,
+.pro_c03_19 #sub ul.subnavi li ul li a.pro_c03_19,
+.pro_c03_20 #sub ul.subnavi li ul li a.pro_c03_20,
+.pro_c03_21 #sub ul.subnavi li ul li a.pro_c03_21,
+.pro_c03_22 #sub ul.subnavi li ul li a.pro_c03_22,
+.pro_c03_23 #sub ul.subnavi li ul li a.pro_c03_23,
+.pro_c03_24 #sub ul.subnavi li ul li a.pro_c03_24,
+.pro_c03_25 #sub ul.subnavi li ul li a.pro_c03_25,
+.pro_c03_26 #sub ul.subnavi li ul li a.pro_c03_26,
+.pro_c04_01 #sub ul.subnavi li ul li a.pro_c04_01,
+.pro_c04_02 #sub ul.subnavi li ul li a.pro_c04_02,
+.pro_c04_03 #sub ul.subnavi li ul li a.pro_c04_03,
+.pro_c04_04 #sub ul.subnavi li ul li a.pro_c04_04,
+.pro_c04_05 #sub ul.subnavi li ul li a.pro_c04_05,
+.pro_c04_06 #sub ul.subnavi li ul li a.pro_c04_06,
+.pro_c04_07 #sub ul.subnavi li ul li a.pro_c04_07,
+.pro_c04_08 #sub ul.subnavi li ul li a.pro_c04_08,
+.pro_c04_09 #sub ul.subnavi li ul li a.pro_c04_09,
+.pro_c04_10 #sub ul.subnavi li ul li a.pro_c04_10,
+.pro_c04_11 #sub ul.subnavi li ul li a.pro_c04_11,
+.pro_c04_12 #sub ul.subnavi li ul li a.pro_c04_12,
+.pro_c04_13 #sub ul.subnavi li ul li a.pro_c04_13,
+.pro_c04_14 #sub ul.subnavi li ul li a.pro_c04_14,
+.pro_c04_15 #sub ul.subnavi li ul li a.pro_c04_15,
+.pro_c04_16 #sub ul.subnavi li ul li a.pro_c04_16,
+.pro_c04_17 #sub ul.subnavi li ul li a.pro_c04_17,
+.pro_c04_18 #sub ul.subnavi li ul li a.pro_c04_18,
+.pro_c04_19 #sub ul.subnavi li ul li a.pro_c04_19,
+.pro_c04_20 #sub ul.subnavi li ul li a.pro_c04_20,
+.pro_c04_21 #sub ul.subnavi li ul li a.pro_c04_21,
+.pro_c04_22 #sub ul.subnavi li ul li a.pro_c04_22,
+.pro_c04_23 #sub ul.subnavi li ul li a.pro_c04_23,
+.pro_c04_24 #sub ul.subnavi li ul li a.pro_c04_24,
+.pro_c04_25 #sub ul.subnavi li ul li a.pro_c04_25,
+.pro_c04_26 #sub ul.subnavi li ul li a.pro_c04_26,
+.pro_c04_27 #sub ul.subnavi li ul li a.pro_c04_27,
+.pro_c04_28 #sub ul.subnavi li ul li a.pro_c04_28,
+.pro_c04_29 #sub ul.subnavi li ul li a.pro_c04_29,
+.pro_c04_30 #sub ul.subnavi li ul li a.pro_c04_30,
+.pro_c04_31 #sub ul.subnavi li ul li a.pro_c04_31,
+.pro_c04_32 #sub ul.subnavi li ul li a.pro_c04_32,
+.pro_c04_33 #sub ul.subnavi li ul li a.pro_c04_33,
+.pro_c04_34 #sub ul.subnavi li ul li a.pro_c04_34,
+.pro_c04_35 #sub ul.subnavi li ul li a.pro_c04_35,
+.pro_c04_36 #sub ul.subnavi li ul li a.pro_c04_36,
+.pro_c04_37 #sub ul.subnavi li ul li a.pro_c04_37,
+.pro_c04_38 #sub ul.subnavi li ul li a.pro_c04_38,
+.pro_c04_39 #sub ul.subnavi li ul li a.pro_c04_39,
+.pro_c04_40 #sub ul.subnavi li ul li a.pro_c04_40,
+.pro_c04_41 #sub ul.subnavi li ul li a.pro_c04_41,
+.pro_c04_42 #sub ul.subnavi li ul li a.pro_c04_42,
+.pro_c04_43 #sub ul.subnavi li ul li a.pro_c04_43,
+.pro_c04_44 #sub ul.subnavi li ul li a.pro_c04_44,
+.pro_c04_45 #sub ul.subnavi li ul li a.pro_c04_45,
+.pro_c04_46 #sub ul.subnavi li ul li a.pro_c04_46,
+.pro_c04_47 #sub ul.subnavi li ul li a.pro_c04_47,
+.pro_c04_48 #sub ul.subnavi li ul li a.pro_c04_48,
+.pro_c04_49 #sub ul.subnavi li ul li a.pro_c04_49,
+.pro_c04_50 #sub ul.subnavi li ul li a.pro_c04_50,
+.pro_c05_01 #sub ul.subnavi li ul li a.pro_c05_01,
+.pro_c05_02 #sub ul.subnavi li ul li a.pro_c05_02,
+.pro_c05_03 #sub ul.subnavi li ul li a.pro_c05_03 {
+	color: #FFF;
+	background: #43ACD8 url(../img/icon_arrow_pro_sec.gif) 25px center no-repeat !important; /* _______________________________スマホ*/
+}
+
+
+/* 3階層目 */
+#sub ul.subnavi li ul li ul li a {
+	padding: 6px 8px 5px 47px;
+	border: dashed 1px #DDD;
+	border-width: 1px 0px 0px 0px;
+}
+#public #sub ul.subnavi li ul li ul li a,
+#pro #sub ul.subnavi li ul li ul li a,
+#doc #sub ul.subnavi li ul li ul li a { 
+	background: #FFF url(../img/icon_arrow_sec.gif) 35px center no-repeat; /* _______________________________スマホ*/
+}
+#public #sub ul.subnavi li ul li ul li a:hover,
+#pro #sub ul.subnavi li ul li ul li a:hover,
+#doc #sub ul.subnavi li ul li ul li a:hover {
+	background: #F5F5F5 url(../img/icon_arrow_sec.gif) 35px center no-repeat; /* _______________________________スマホ*/
+}
+
+.doc_y01 #sub ul.subnavi li ul li ul li a.doc_y01,
+.doc_y02 #sub ul.subnavi li ul li ul li a.doc_y02,
+.doc_y03 #sub ul.subnavi li ul li ul li a.doc_y03,
+.doc_y04 #sub ul.subnavi li ul li ul li a.doc_y04,
+.doc_y05 #sub ul.subnavi li ul li ul li a.doc_y05,
+.doc_y06 #sub ul.subnavi li ul li ul li a.doc_y06,
+.doc_y07 #sub ul.subnavi li ul li ul li a.doc_y07,
+.doc_y08 #sub ul.subnavi li ul li ul li a.doc_y08,
+.doc_y09 #sub ul.subnavi li ul li ul li a.doc_y09,
+.doc_y10 #sub ul.subnavi li ul li ul li a.doc_y10,
+.doc_y11 #sub ul.subnavi li ul li ul li a.doc_y11,
+.doc_y12 #sub ul.subnavi li ul li ul li a.doc_y12,
+.doc_y13 #sub ul.subnavi li ul li ul li a.doc_y13,
+.doc_y14 #sub ul.subnavi li ul li ul li a.doc_y14,
+.doc_y15 #sub ul.subnavi li ul li ul li a.doc_y15 {
+	color: #FFF;
+	background: #85B200 url(../img/icon_arrow_doc_sec.gif) 35px center no-repeat !important; /* _______________________________スマホ*/
+}
+
+/* ヨガサブメニュー */
+#doc #sub ul.subnavi .doc_e03_y {
+	display: none;
+}
+#doc.yoga #sub ul.subnavi .doc_e03_y {
+	display: block;
+}
+
+
+/* ページトップ
+-------------------------------------------------------------------------------------------------------- */
+
+/* PC用非表示
+-------------------------------------- */
+#pagetop {
+	display: none; /* _______________________________スマホ*/
+}
+
+
+/* スマホ用
+-------------------------------------- */
+#pagetop_sp {
+	display: block;
+	font-size: 4vw;
+}
+#pagetop_sp a {
+	display: block;
+	background: #000000 url(../img/icon_pagetop.png) 33% 50% no-repeat;
+	text-decoration: none;
+	padding: 20px 0px 20px 0px;
+	text-align: center;
+}
+#public #pagetop_sp a,
+#pro #pagetop_sp a,
+#utility #pagetop_sp a,
+#doc #pagetop_sp a {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+
+/* パンクズリスト
+-------------------------------------------------------------------------------------------------------- */
+#topicpath {
+	margin: 0px 0px 20px 0px;
+	padding: 0px 20px 0px 20px;
+	font-size: 85%;
+}
+#topicpath span {
+	color: #999;
+}
+
+#topicpath li {
+	float: left;
+	margin: 0px 10px 0px 0px;
+}
+#topicpath li.arrow {
+	padding: 0px 15px 0px 0px;
+	background: url(../img/icon_arrow_gray.gif) 100% 50% no-repeat;
+}
+
+
+
+
+
+/* フッター
+-------------------------------------------------------------------------------------------------------- */
+#footer {
+	padding: 0px 20px 20px 20px; /* _______________________________スマホ*/
+}
+#footer .inner {
+	padding: 20px 0px 0px 0px; /* _______________________________スマホ*/
+	width: 100%; /* _______________________________スマホ*/
+	margin: 0px; /* _______________________________スマホ*/
+	color: #666666;
+	text-align: left;
+}
+
+#footer .footerR {
+	width: 100%; /* _______________________________スマホ*/
+	float: none; /* _______________________________スマホ*/
+	margin-bottom: 10px;
+}
+.mhlw_img {
+	width: 15%;
+	float: left;
+}
+.mhlw_img img {
+	width: 100%;
+	height: auto;
+}
+.mhlw_text {
+	width: 80%;
+	float: right;
+	font-size: 77%;
+	line-height: 150%;
+}
+
+#footer .footerL {
+	width: 100%;
+	float: none;
+}
+
+#footer .fn {
+	font-size: 85%;
+	margin: 0px 0px 10px 0px;
+}
+#footer .copyright {
+	font-size: 77%;
+}
+
+
+
+}�J����      \�d�\�d�@.�       3    :http://www.ejim.ncgg.go.jp/common/css/frame_sp.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 25 Mar 2019 05:18:25 GMT
+Server: Apache
+Last-Modified: Wed, 21 Feb 2018 04:43:39 GMT
+ETag: "400043-5be7-565b19223f4c0"
+Accept-Ranges: bytes
+Content-Length: 23527
+Cache-Control: max-age=0
+Expires: Mon, 25 Mar 2019 05:18:25 GMT
+Content-Type: text/css
+ original-response-headers Date: Mon, 25 Mar 2019 05:18:25 GMT
+Server: Apache
+Last-Modified: Wed, 21 Feb 2018 04:43:39 GMT
+ETag: "400043-5be7-565b19223f4c0"
+Accept-Ranges: bytes
+Content-Length: 23527
+Cache-Control: max-age=0
+Expires: Mon, 25 Mar 2019 05:18:25 GMT
+Connection: close
+Content-Type: text/css
+ uncompressed-len 0 net-response-time-onstart 51 net-response-time-onstop 72   [�

@@ -1,0 +1,497 @@
+@charset "UTF-8";
+
+
+#main #section_00 {
+	margin: 0px;
+	padding: 0px;	
+}
+#main /* CSS Document */
+
+/* ページタイトル */
+#main #section_a,#main #section_,#main #section_c {
+	margin: 0px;
+	padding: 0px;	
+}
+h1 {
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+
+#section_a h2 {
+	background-image: url(../images/product/title_lcarnitine_01.gif);
+	height: 38px;
+	width: 571px;
+	background-repeat: no-repeat;
+	margin-bottom: 15px;
+	margin-top: 0px;
+}
+#section_b h2 {
+	background-image: url(../images/product/title_lcarnitine_03.gif);
+	height: 38px;
+	width: 571px;
+	background-repeat: no-repeat;
+	margin-bottom: 15px;
+}
+#section_c h2 {
+	background-image: url(../images/product/title_lcarnitine_03.gif);
+	height: 38px;
+	width: 571px;
+	background-repeat: no-repeat;
+	margin-bottom: 15px;
+}
+
+/******** リスト上ここから *******/
+#main #head {
+	margin-bottom: 15px;
+}
+#main ul.head {
+	margin-bottom: 15px;
+	width: 571px;
+}
+#main ul.head li {
+	float: left;
+}
+#main ul.head li a {
+	display: block;
+	height: 26px;
+	width: 153px;
+}
+#main ul.head li a:hover img { position:relative; z-index:-1; }
+#btn_head_01 {
+	margin-right: 15px;
+}
+#btn_head_01 a {
+	background-image: url(../images/product/lcarnitine/btn_head/btn_head_01_ov.gif);
+}
+#btn_head_02 {
+	margin-right: 15px;
+}
+#btn_head_02 a {
+	background-image: url(../images/product/lcarnitine/btn_head/btn_head_02_ov.gif);
+}
+#btn_head_03 a {
+	background-image: url(../images/product/lcarnitine/btn_head/btn_head_03_ov.gif);
+}
+
+#main h2.head_02 {
+	background-image: url(../images/product/title_lcarnitine_02.gif);
+	height: 38px;
+	width: 571px;
+	text-indent: -9999px;
+	background-repeat: no-repeat;
+	margin-bottom: 15px;
+	margin-top: 0px;
+}
+
+/* 各セクション共通 */
+#main #section_01,#main #section_02,#main #section_03,#main #section_04,#main #section_05,#main #section_06,#main #section_07,#main #section_08,#main #section_09,#main #section_10,#main #section_11,#main #section_12,#main #section_15 {
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-bottom: 20px;
+}
+
+
+/* 各項目共通 */
+#main h2 {
+	background-repeat: no-repeat;
+	height: 44px;
+	width: 522px;
+	margin-bottom: 10px;
+}
+/* 各項目の画像指定 */
+#main #section_02 h2 {
+	background-image: url(../images/product/lcarnitine/head_01.gif);
+	margin-top: 10px;
+}
+
+#main #section_03 h2 {
+	background-image: url(../images/product/lcarnitine/head_02.gif);
+	margin-top: 10px;
+}
+#main #section_04 h2 {
+	background-image: url(../images/product/lcarnitine/head_03.gif);
+	margin-top: 10px;
+}
+#main #section_04 h4 {
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #FFCC99;
+	width: 250px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	color: #FF3300;
+}
+
+
+#main #section_05 h2 {
+	background-image: url(../images/product/lcarnitine/head_06.gif);
+	margin-top: 10px;
+}
+#main #section_05 h3 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #555555;
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	padding-bottom: 3px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #FF9933;
+}
+
+#main #section_06 h3 {
+	background-image: url(../images/product/lcarnitine/head_04.gif);
+	margin-top: 10px;
+}
+#main #section_07 h3 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #555555;
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	padding-bottom: 3px;
+	border-bottom: 2px solid #FF9933;
+}
+
+#main #section_08 h3 {
+	background-image: url(../images/product/liver/head_07.gif);
+}
+#main #section_09 h3 {
+	background-image: url(../images/product/liver/head_08.gif);
+}
+#main #section_10 h3 {
+	background-image: url(../images/product/liver/head_09.gif);
+}
+#main #section_11 h3 {
+	background-image: url(../images/product/liver/head_10.gif);
+}
+#main #section_15 h3 {
+	background-image: url(../images/product/liver/head_15.gif);
+}
+
+/*　テキスト共通 */
+#main p {
+	line-height: 1.8em;
+}
+
+/*　フロートのクリア */
+#section_02,#section_03,#section_08 {
+	clear: both;
+}
+
+/* section_01 */
+#main #section_01 {
+	margin-right: 2px;
+	margin-left: 2px;
+	margin-top: 20px;
+}
+#main #section_01 img {
+	margin-bottom: 4px;
+	margin-right: 3px;
+}
+#main #section_01 ul {
+}
+#main #section_01 ul li {
+	float: left;
+	width: 160px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	margin-right: 6px;
+	margin-left: 6px;
+}
+#main #section_01 ul li a {
+	color: #008FB8;
+}
+#main #section_01 ul li a:hover {
+	color: #F39700;
+}
+
+/* section_07 */
+#main #section_07 p {
+
+}
+#main  #section_06  #table_area {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	line-height: 18px;
+}
+#main #section_06 #table_area #title01 {
+	margin-top: 15px;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	border-left-width: 5px;
+	border-left-style: solid;
+	border-left-color: #9ED1F2;
+	margin-right: 0px;
+	background-color: #CFEBFF;
+	font-weight: bold;
+	color: #444444;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+}
+#main  #section_06  #table_area  #title02 {
+	margin-top: 15px;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	border-left-width: 5px;
+	border-left-style: solid;
+	border-left-color: #FAE075;
+	margin-right: 0px;
+	background-color: #FFF9B4;
+	font-weight: bold;
+	color: #444444;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+}
+#main  #section_06  #table_area  #title03 {
+	margin-top: 15px;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	border-left-width: 5px;
+	border-left-style: solid;
+	border-left-color: #FFCBBB;
+	margin-right: 0px;
+	background-color: #FFEDF9;
+	font-weight: bold;
+	color: #444444;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+}
+
+
+#main  #section_06  table {
+	width: 100%;
+	text-align: center;
+	
+}
+#main  #section_06  th {
+	font-weight: bold;
+	text-align: center;
+	color: #444444;
+}
+#main  #section_06  td {
+}
+#main  #section_06  th,#main  #section_06  td {
+	border: 1px solid #999999;
+	padding: 6px;
+}
+#section_04 /* section_08 */
+ table {
+	width: 100%;
+	font-size: 11px;
+	margin-top: 20px;
+	border: 2px solid #999999;
+}
+#section_04 caption {
+	width: 100%;
+	font-size: 12px;
+	text-align: center;
+	margin-bottom: 2px;
+	line-height: 13px;
+}
+#section_04 tfoot {
+	display: table-footer-group;
+}
+
+
+#section_04  th {
+	border-bottom-width: 3px;
+	border-bottom-style: double;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #999999;
+	text-align: center;
+	line-height: 14px;
+	padding: 3px;
+}
+#section_04  td {
+}
+#main   #section_04 td     {
+	border: 1px solid #999999;
+	padding: 3px;
+	text-align: center;
+}
+#section_04 /* テーブル行の背景色 */
+ tr.line_01 {
+}
+#section_04  tr.line_02 {
+}
+#section_04 /* テキスト一部の色 */
+ td.caution {
+	color: #FF0000;
+	font-weight: bold;
+}
+
+/* 歴史の表 */
+#section_15 dl {
+	width: 100%;
+	margin-bottom: 30px;
+}
+#section_15 dt {
+	float: left;
+	background-image: url(../images/product/lcarnitine/line.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	font-weight: bold;
+	margin-right: 25px;
+}
+#section_15 dt.month {
+}
+#section_15 dd {
+}
+#section_15 dt, #section_15 dd {
+	padding-top: 6px;
+	padding-bottom: 8px;
+	background-image: url(../images/product/lcarnitine/line.gif);
+	background-position: bottom;
+	background-repeat: no-repeat;
+	line-height: 14px;
+}
+
+.red {
+	color: #FE8A3D;
+}
+.zu {
+	padding: 5px;
+	border: 1px solid #B3B3B3;
+	background-color: #D7F4FA;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.zu2 {
+	background-color: #D7F4FA;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #B3B3B3;
+	border-right-color: #B3B3B3;
+	border-bottom-color: #B3B3B3;
+	border-left-color: #B3B3B3;
+	clear: both;
+}
+.zu3 {
+	background-color: #D7F4FA;
+	width: 460px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+img.zu3   {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+.blue {
+	color: #008FB8;
+}
+.red_ul {
+	color: #FE8A3D;
+	text-decoration: underline;
+}
+.blue_ul {
+	color: #008FB8;
+	text-decoration: underline;
+}
+
+.block   {
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-left: 20px;
+	padding: 10px;
+	margin-right: 20px;
+	border: 1px solid #FF9933;
+	font-size: 12px;
+	line-height: 18px;
+}
+#section_12  #coution {
+	padding: 10px;
+	border: 1px solid #FF3300;
+	font-size: 12px;
+	line-height: 18px;
+	color: #FF3333;
+	background-color: #FFDFDF;
+}
+.bottom_cap {
+	font-size: 11px;
+	width: 100%;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: right;
+	padding: 0px;
+}
+#fireman {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	text-align: center;
+	cursor: pointer;
+	width: 400px;
+}
+
+img.right {
+	float: right;
+}
+img.right_02 {
+	float: right;
+	margin-bottom: 10px;
+}
+img.right_03 {
+	float: right;
+	margin-top: 10px;
+}
+�c�'�      \�d�\�d�@.�\��#   )    :http://www.ils.co.jp/css/l-carnitine.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 25 Mar 2019 05:18:27 GMT
+Server: Apache
+Last-Modified: Mon, 25 Jul 2016 04:31:42 GMT
+ETag: "8da565-23f4-5795962e"
+Accept-Ranges: bytes
+Content-Length: 9204
+Content-Type: text/css
+ original-response-headers Date: Mon, 25 Mar 2019 05:18:27 GMT
+Server: Apache
+Last-Modified: Mon, 25 Jul 2016 04:31:42 GMT
+ETag: "8da565-23f4-5795962e"
+Accept-Ranges: bytes
+Content-Length: 9204
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/css
+ uncompressed-len 0 net-response-time-onstart 47 net-response-time-onstop 74   #�

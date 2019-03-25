@@ -1,0 +1,16 @@
+
+(unity-panel-service:2486): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2486): Indicator-Appmenu-WARNING **: Already have a menu for window ID 69206032 with path /com/canonical/menu/4200010 from :1.89, unregistering that one
+
+(unity-panel-service:2486): Gtk-CRITICAL **: gtk_icon_info_get_filename: assertion 'icon_info != NULL' failed
+
+(unity-panel-service:2486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(unity-panel-service:2486): Gtk-CRITICAL **: gtk_icon_info_get_filename: assertion 'icon_info != NULL' failed
+
+(unity-panel-service:2486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(unity-panel-service:2486): Gtk-CRITICAL **: gtk_icon_info_get_filename: assertion 'icon_info != NULL' failed
+
+(unity-panel-service:2486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed

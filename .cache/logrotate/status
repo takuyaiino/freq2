@@ -1,0 +1,20 @@
+logrotate state -- version 2
+"/home/iino/.cache/upstart/gnome-keyring-ssh.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/bamfdaemon.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/indicator-sound.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/upstart-event-bridge.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/window-stack-bridge.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/indicator-messages.log" 2019-3-25-14:0:31
+"/home/iino/.cache/upstart/unity-settings-daemon.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/hud.log" 2019-3-25-14:0:31
+"/home/iino/.cache/upstart/ssh-agent.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/update-notifier-crash-_var_crash_nvidia-410.0.crash.log" 2019-3-25-14:0:31
+"/home/iino/.cache/upstart/unity-panel-service-lockscreen.log" 2019-3-25-14:0:31
+"/home/iino/.cache/upstart/dbus.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/gpg-agent.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/at-spi2-registryd.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/indicator-keyboard.log" 2019-3-25-14:0:31
+"/home/iino/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_compiz.1019.crash.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/update-notifier-release.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/unity-panel-service.log" 2019-3-25-15:28:49
+"/home/iino/.cache/upstart/unity7.log" 2019-3-25-15:28:49

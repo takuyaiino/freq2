@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_iino0/google-chrome-stable_current_amd64.deb" added="2019-03-22T08:01:57Z" modified="2019-03-22T08:01:57Z" visited="2019-03-22T08:01:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-03-22T08:01:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_iino0/%E6%9C%AC%E9%83%A8%E9%80%9F%E5%A0%B1%EF%BC%91%EF%BC%99%EF%BC%91%EF%BC%91%E5%9B%9E%E7%AD%94.pdf" added="2019-03-25T06:11:37Z" modified="2019-03-25T06:11:37Z" visited="2019-03-25T06:11:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="ドキュメントビューアー" exec="&apos;evince %u&apos;" modified="2019-03-25T06:11:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

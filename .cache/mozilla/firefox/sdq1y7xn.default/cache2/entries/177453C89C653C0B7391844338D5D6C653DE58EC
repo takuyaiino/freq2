@@ -1,0 +1,445 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #F9FAFC;
+	font-family:"ＭＳ Ｐゴシック", "XHiragino Kaku Gothic Pro", "Xヒラギノ角ゴ Pro W3", "Xメイリオ", 'XMeiryo', "XOsaka", vXerdana, aXrial, sans-serif;
+	font-size:12px;
+	color: #626262;
+	background-image: url(../images/back_main_02.jpg);
+	background-repeat: repeat-x;
+}
+
+/* ie6ピーカブーバグ用 */
+body {
+	zoom: 1;
+}
+/*********** Fire Fox用リンクの線の修正 ***********/
+a:focus{
+	overflow:hidden;
+}
+
+#wrapper {
+	width: 882px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#main_img {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#header {
+	width: 882px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#logo {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 83px;
+	width: 440px;
+}
+#btns {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	width: 442px;
+	height: 83px;
+}
+
+#content {
+	margin-top: 14px;
+	margin-right: auto;
+	margin-bottom: 14px;
+	margin-left: auto;
+	border: 1px solid #d6d6d6;
+	background-color: #FFFFFF;
+	padding-top: 6px;
+	padding-right: 28px;
+	padding-bottom: 10px;
+	padding-left: 28px;
+}
+#main {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 570px;
+}
+
+/******************************** ここからサイド ********************************/
+
+/*********** サイド全体 ***********/
+#sidebar {
+	float: right;
+	width: 227px;
+	padding: 0px;
+	background-image: url(../images/sidebar/sidebar_back_c.jpg);
+	background-repeat: repeat-y;
+	background-position: center;
+	margin-top: 22px;
+}
+
+#sidebar #sidebar_top {
+	padding-bottom: 15px;
+	background-image: url(../images/sidebar/sidebar_back_b.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+/*********** ここからサイドの上 ***********/
+#sidebar .section_01 {
+	padding-right: 13px; padding-left: 13px;
+	background: url(../images/sidebar/sidebar_back_t.png) no-repeat top;
+}
+
+#sidebar .section_01 h4 { padding:15px 0 5px 0; text-align:center;}
+
+#sidebar .section_01 ul li {
+	height: 62px;
+	width: 202px;
+}
+#sidebar .section_01 ul li a {
+	display: block;
+	height: 62px;
+	width: 202px;
+}
+
+#sidebar a:hover img { position:relative; z-index:-1; }
+
+li#s_01 a { background-image: url(../images/sidebar/navi/sidebar_navi_a_01.gif); }
+li#s_02 a { background-image: url(../images/sidebar/navi/sidebar_navi_a_02.jpg); }
+li#s_03 a { background-image: url(../images/sidebar/navi/sidebar_navi_a_03.jpg); }
+li#s_04 a { background-image: url(../images/sidebar/navi/sidebar_navi_a_04.jpg); }
+
+
+#sidebar .section_01 p a {
+	display: block;
+	height: 163px;
+	width: 198px;
+}
+#sidebar .section_01 p a:hover { background: url(../images/sidebar/board_green_ov.png) no-repeat; }
+
+/*********** ここからサイドの下 ***********/
+#sidebar .section_02 {
+	width: 202px;
+	background-image: url(../images/sidebar/sidebar_back_b_b.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	margin: 10px auto 0;
+}
+#sidebar .section_02 img {
+	vertical-align:bottom;
+	margin: 0px;
+	padding: 0px;
+}
+#sidebar .section_02 ul {
+	background-image: url(../images/sidebar/sidebar_back_b_c.png);
+	background-repeat: repeat-y;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+#t_img    {
+	background-image: url(../images/sidebar/sidebar_back_b_t.png);
+	background-repeat: no-repeat;
+	padding: 0px;
+	height: 8px;
+	width: 201px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#sidebar .section_02 ul li {
+	width: 196px;
+	margin-right: 4px;
+	margin-left: 4px;
+}
+.img_block {
+	display: block;
+}
+
+#sidebar .section_02 ul li a {
+	height: 61px;
+	width: 196px;
+	display: block;
+}
+
+#sidebar #bunner_01 a { background-image: url(../images/sidebar/bunner/side_bunner_a_01.png); }
+#sidebar #bunner_02 a { background-image: url(../images/sidebar/bunner/side_bunner_a_02.png); }
+#sidebar #bunner_03 a { background-image: url(../images/sidebar/bunner/side_bunner_a_03.png); }
+#sidebar #bunner_04 a { background-image: url(../images/sidebar/bunner/side_bunner_a_04.png); }
+
+/* サイド下 */
+#sidebar_bottom { background-color: #FFFFFF; padding-top: 5px; }
+#sidebar_bottom li a { height: 62px; width: 227px; display: block; }
+
+li#bunner_b_01 a { background-image: url(../images/sidebar/bottom/side_bottom_a_01.jpg); }
+li#bunner_b_02 a { background-image: url(../images/sidebar/bottom/side_bottom_a_02.jpg); }
+
+
+/* --------------------------------------------------------------------- */
+/* footer */
+/* --------------------------------------------------------------------- */
+#footer {
+	background-image: url(../images/footer_bg.gif);
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-repeat: repeat-x;
+}
+
+#footer a:hover img { position: relative; z-index: -1; }
+
+#footer_navi {
+	width: 882px;
+	margin-right: auto;
+	margin-left: auto;
+	}
+#footer_navi_t {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #eaeaea;
+	padding-bottom: 10px;
+		}
+	#footer_navi .padding {
+	padding-top: 15px;
+	padding-bottom: 10px;	
+		}
+
+#footer_navi .box { float: left; margin-right: 23px; }
+	#footer_navi .box_margin_clear { float: left; margin-right: 0px; }
+		#footer_navi .box .margin_clear { margin-right: 0px; }
+	#footer_navi a { color: #646464; text-decoration: none; }
+		#footer_navi a:hover { color: #9b9b9b; text-decoration: underline; }
+		
+	#footer_navi h5 { margin-bottom: 5px; }
+	
+	#footer_navi h5.COM a { background-image: url(../images/footer/hover/footer_navi_01.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+	#footer_navi h5.BIZ a {
+	background-image: url(../images/footer/hover/footer_navi_02.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+	#footer_navi h5.PRO a {
+	background-image: url(../images/footer/hover/footer_navi_03.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+	#footer_navi h5.RES a {
+	background-image: url(../images/footer/hover/footer_navi_04.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+	#footer_navi h5.ACC a {
+	background-image: url(../images/footer/hover/footer_navi_05.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+	#footer_navi h5.INQ a {
+	background-image: url(../images/footer/hover/footer_navi_06.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+	#footer_navi h5.TOP a {
+	background-image: url(../images/footer/hover/footer_navi_07.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+	#footer_navi h5.MAP a {
+	background-image: url(../images/footer/hover/footer_navi_08.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+	#footer_navi h5.REC a {
+	background-image: url(../images/footer/hover/footer_navi_09.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+	
+	
+	#footer_navi ul.tri {
+	padding-left: 3px;
+	}
+	#footer_navi ul.tri li {
+	font-size: 11px;
+	margin-bottom: 3px;
+	background-image: url(../images/footer/icon_tri.png);
+	background-repeat: no-repeat;
+	padding-left: 6px;
+	background-position: left center;
+	}
+	#footer_navi ul.tri li a {
+	}
+	
+	#footer_navi p {
+	font-size: 11px;
+	margin-bottom: 3px;
+	background-image: url(../images/footer/icon_tri.png);
+	background-repeat: no-repeat;
+	padding-left: 6px;
+	background-position: left center;
+	font-weight: bold;
+	}
+	#footer_navi ul.sq {
+	padding-left: 1px;
+	}
+	#footer_navi ul.sq li {
+	font-size: 10px;
+	margin-bottom: 3px;
+	background-image: url(../images/footer/icon_sq.png);
+	background-repeat: no-repeat;
+	padding-left: 6px;
+	background-position: left center;
+	}
+	#footer_navi ul.sq li a {
+	}
+	
+	#footer_navi ul.tri li,#footer_navi p,#footer_navi ul.sq li {  letter-spacing: 1px; }
+	
+	#footer_navi .box_s { float: left; margin-right: 18px; }
+
+#footer_navi_b {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #FFF;
+	clear: both;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	}
+	#footer_navi_b ul {
+	}
+	#footer_navi_b ul li { float: left; margin-right: 10px; }
+	#footer_navi_b ul li#fm_01 a {
+	background-image: url(../images/footer/hover/footer_navi_10.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+	#footer_navi_b ul li#fm_02 a {
+	background-image: url(../images/footer/hover/footer_navi_11.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	}
+#footer_navi_b address.right { float: right; }
+
+/* --------------------------------------------------------------------- */
+/* link */
+/* --------------------------------------------------------------------- */
+
+p.navi{
+	font-size:10px;
+	line-height:13px;
+	color:#888888;
+	padding:0px;
+	text-align: left;
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-bottom: 6px;
+	margin-left: 0px;
+}
+a.txt:link { color: #008FB8; }
+a.txt:visited { color: #008FB8; }
+a.txt:hover,a.txt:focus {
+	color: #fff;
+	background-color:#008FB8;
+	text-decoration: none;
+	}
+a.ftxt:link { color: #3d7f9c; text-decoration: underline; }
+a.ftxt:visited { color: #666666; text-decoration: underline; }
+a.ftxt:hover,
+a.ftxt:focus {
+	color: #3d7f9c;
+	text-decoration: underline;
+	}
+a.bxt:link { color: #362e2b; text-decoration: none; }
+a.bxt:visited { color: #0A7E74; text-decoration: none; }
+a.bxt:hover,
+a.bxt:focus { color: #18DAC9; text-decoration: none; }
+h2 {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 12px;
+	margin-left: auto;
+}
+.white_line {
+	border: 1px solid #FFFFFF;
+}
+.gray_line {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #d2d2d2;
+	border-right-color: #d2d2d2;
+	border-bottom-color: #d2d2d2;
+	border-left-color: #d2d2d2;
+}
+
+.jigyou_txt_bg {
+	background-image: url(../images/top/jigyou_txt_bg.gif);
+	background-position: center bottom;
+	font-size: 11px;
+	line-height: 18px;
+	color: #7E7E7E;
+	text-align: left;
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding-top: 4px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+}
+#sidbar_table {
+	background-image: url(../images/sidebar_bg_01.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.clear { clear: both; }
+
+/* このページのトップへ */
+.go_top {
+	height: 12px;
+	width: 120px;
+	float: right;
+	margin-top: 10px;
+}
+.go_top a {
+	height: 12px;
+	width: 120px;
+	display: block;
+	background-image: url(../images/go_top_a_01.jpg);
+}
+.go_top a:hover img { position: relative; z-index: -1; }
+�g%      \�d�\�d�@.�\��#   "    :http://www.ils.co.jp/css/base.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 25 Mar 2019 05:18:27 GMT
+Server: Apache
+Last-Modified: Wed, 10 Oct 2018 01:12:17 GMT
+ETag: "8da54f-289c-5bbd51f1"
+Accept-Ranges: bytes
+Content-Length: 10396
+Content-Type: text/css
+ original-response-headers Date: Mon, 25 Mar 2019 05:18:27 GMT
+Server: Apache
+Last-Modified: Wed, 10 Oct 2018 01:12:17 GMT
+ETag: "8da54f-289c-5bbd51f1"
+Accept-Ranges: bytes
+Content-Length: 10396
+Keep-Alive: timeout=15, max=98
+Connection: Keep-Alive
+Content-Type: text/css
+ uncompressed-len 0 net-response-time-onstart 24 net-response-time-onstop 24   (�

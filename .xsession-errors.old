@@ -1,0 +1,3 @@
+openConnection: connect: そのようなファイルやディレクトリはありません
+cannot connect to brltty at :0
+upstart: update-notifier-crash (/var/crash/nvidia-410.0.crash) main プロセス (2371) はステータス 1 で終了しました

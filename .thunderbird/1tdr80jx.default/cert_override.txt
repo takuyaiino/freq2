@@ -1,0 +1,3 @@
+# PSM Certificate Override Settings file
+# This is a generated file!  Do not edit.
+pop.toyota-ti.ac.jp:110	OID.2.16.840.1.101.3.4.2.1	8F:08:7A:FB:02:CD:54:E5:67:D4:6F:75:7A:47:2E:38:B9:96:C1:2D:9B:59:40:12:6F:3A:45:8A:FC:F5:C8:34	MU	AAAAAAAAAAAAAAAJAAAAWgCOhiaDtuMagzBYMRQwEgYDVQQLDAtJTUFQIHNlcnZlcjEZMBcGA1UEAwwQaW1hcC5leGFtcGxlLmNvbTElMCMGCSqGSIb3DQEJARYWcG9zdG1hc3RlckBleGFtcGxlLmNvbQ==

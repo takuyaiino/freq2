@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/base.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>L-カルニチンとは | L-カルニチン | 機能食品 | 製品紹介 | ILS株式会社</title>
+<meta name="keywords" content="カルニチン,L-カルニチン,機能食品" />
+<meta name="description" content="L-カルニチンとは何か、体内における働きや、L-カルニチンを補給する方法 について図やグラフで詳しく解説します。L-カルニチンは、ダイエット食品やアスリート食品、健康維持サプリに、幅広く利用されています。" />
+<!-- InstanceEndEditable -->
+<link href="../images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="../css/import.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="css" -->
+<link href="../css/l-carnitine.css" rel="stylesheet" type="text/css" />
+<!-- InstanceEndEditable -->
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<script src="../js/swap_img.js" type="text/javascript"></script>
+<script src="../js/smooth.pack.js" type="text/javascript" ></script>
+<!-- InstanceBeginEditable name="head" -->
+<!--[if lte IE 6]>  
+<script type="text/javascript" src="../js/DD_belatedPNG_0.0.8a.js"></script>  
+<script type="text/javascript" src="../js/DD_belatedPNG_0.0.8a_list.js"></script>  
+<![endif]-->
+<link rel="canonical" href="http://www.ils.co.jp/seihin/karunitin.html" />
+<script type="text/javascript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<!-- InstanceEndEditable -->
+</head>
+
+<body onload="MM_preloadImages('../images/btn_top_ov.gif','../images/btn_sitemap_ov.gif','../images/btn/company_btn_ov.gif','../images/btn/seihin_btn_ov.gif','../images/btn_english2_ov.gif')">
+
+<div id="wrapper"> 
+	
+    <div id="header">
+		
+        <a name="top" id="top"></a>
+        
+        <div id="logo"><a href="../"><img src="../images/ils_logo_02.gif" width="250" height="83" alt="ILS" /></a></div>
+		
+        <div id="btns">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td height="31" align="right" valign="bottom">
+                	<a href="../" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','../images/btn_top_ov.gif',1)">
+                    	<img src="../images/btn_top.gif" alt="トップページ" name="Image2" width="107" height="24" border="0" id="Image2" /></a>
+                    <a href="../sitemap.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','../images/btn_sitemap_ov.gif',1)">
+                    	<img src="../images/btn_sitemap.gif" alt="サイトマップ" name="Image5" width="104" height="24" border="0" id="Image5" /></a>
+                    <a href="../english/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','../images/btn_english2_ov.gif',1)">
+                    	<img src="../images/btn_english2.gif" alt="English" name="Image13" width="93" height="24" border="0" id="Image13" /></a>                </td>
+		  </tr>
+            <tr>
+                <td align="right" valign="top">&nbsp;</td>
+            </tr>
+		</table>
+		</div><!--btns-->
+		
+		<div id="navi">
+        
+        <ul id="MenuBar1" class="MenuBarHorizontal">
+          
+          <li id="m_01"><a class="MenuBarItemSubmenu" href="../company.html"><img src="../SpryAssets/images/navi_01.png" width="147" height="30" alt="会社案内" /></a>
+              <ul class="sub_01">
+                <li id="m_01_01"><a href="../company.html"><img src="../SpryAssets/images/sub/navi_01_01.png" width="147" height="25" alt="会社概要" /></a></li>
+                <li id="m_01_03"><a href="../philosophy.html"><img src="../SpryAssets/images/sub/navi_01_03.png" width="147" height="25" alt="企業理念" /></a></li>
+                <li id="m_01_04"><a href="../philosophy.html#message"><img src="../SpryAssets/images/sub/navi_01_04.png" width="147" height="25" alt="ご挨拶" /></a></li>
+                <li id="m_01_05"><a href="../history.html"><img src="../SpryAssets/images/sub/navi_01_05.png" width="147" height="25" alt="沿革" /></a></li>
+                <li id="m_01_06"><a href="../disclosure.html"><img src="../SpryAssets/images/sub/navi_01_06.png" width="147" height="25" alt="電子公告" /></a></li>
+              </ul>
+          </li>
+          
+          <li id="m_02"><a class="MenuBarItemSubmenu" href="../business.html"><img src="../SpryAssets/images/navi_02.png" width="147" height="30" alt="事業紹介" /></a>
+              <ul class="sub_01">
+                <li id="m_02_02"><a href="../business.html#pharmaceutical"><img src="../SpryAssets/images/sub/navi_02_02.png" width="147" height="25" alt="医薬品" /></a></li>
+                <li id="m_02_03"><a href="../business.html#functional"><img src="../SpryAssets/images/sub/navi_02_03.png" width="147" height="25" alt="機能食品" /></a></li>
+              </ul>
+          </li>	
+          
+          <li id="m_03"><a class="MenuBarItemSubmenu" href="../product_top.html"><img src="../SpryAssets/images/navi_03.png" width="147" height="30" alt="製品紹介" /></a>
+              <ul class="sub_01">
+                <li id="m_03_02"><a href="../pharmaceutical.php"><img src="../SpryAssets/images/sub/navi_03_02.png" width="147" height="25" alt="医薬品" /></a></li>
+                <li id="m_03_03"><a href="../functionalfoods.php"><img src="../SpryAssets/images/sub/navi_03_03.png" width="147" height="25" alt="機能食品" /></a></li>
+              </ul>
+          </li>	
+          
+          <li id="m_04"><a href="../research.html"><img src="../SpryAssets/images/navi_04.png" width="147" height="30" alt="研究開発" /></a></li>
+          
+          <li id="m_05"><a href="../access.html"><img src="../SpryAssets/images/navi_05.png" width="147" height="30" alt="アクセス" /></a></li>
+          
+          <li id="m_06"><a class="MenuBarItemSubmenu" href="../inquiry.html"><img src="../SpryAssets/images/navi_06.png" width="147" height="30" alt="お問い合せ" /></a>
+              <ul class="sub_02">
+                <li id="m_06_02"><a href="https://x182.secure.ne.jp/~x182060/form/inquiry02/inquiry_02.html"><img src="../SpryAssets/images/sub/navi_06_02.png" width="146" height="25" alt="医薬品部門" /></a></li>
+                <li id="m_06_03"><a href="https://x182.secure.ne.jp/~x182060/form/inquiry03/inquiry_03.html"><img src="../SpryAssets/images/sub/navi_06_03.png" width="146" height="25" alt="機能素材部門" /></a></li>
+              </ul>
+          </li>
+        
+        </ul>
+	
+    	</div><!--navi-->
+	
+    </div><!--header-->
+    	
+        <!-- InstanceBeginEditable name="main_image" -->
+    		<img src="../images/main_lcarnitine.jpg" alt="" width="882" height="143" />
+        <!-- InstanceEndEditable -->
+	
+    <div class="clear" id="content">
+		
+        <div id="main">
+		
+		<!-- InstanceBeginEditable name="main_contents" -->
+        
+        <p class="navi"><a href="../" class="txt">ホーム</a>&nbsp;>&nbsp;<a href="../product_top.html" class="txt">製品紹介</a>&nbsp;>&nbsp;<a href="../functionalfoods.php" class="txt">機能食品部門</a>&nbsp;>&nbsp;L-カルニチン&nbsp;>&nbsp;L-カルニチンとは</p>
+
+		<ul class="head">
+        	<li id="btn_head_01"><a href="karunitin.html"><img src="../images/product/lcarnitine/btn_head/btn_head_01.gif" width="153" height="26" alt="L-カルニチンとは" /></a></li>
+        	<li id="btn_head_02"><a href="karunitin_02.html"><img src="../images/product/lcarnitine/btn_head/btn_head_02.gif" width="153" height="26" alt="用途のご紹介" /></a></li>
+        	<li id="btn_head_03"><a href="karunitin_03.html"><img src="../images/product/lcarnitine/btn_head/btn_head_03.gif" width="153" height="26" alt="製品案内" /></a></li>
+          <div style="clear:both;"></div>
+        </ul>
+
+            <div id="section_a">
+        	<h1><img src="../images/product/title_lcarnitine_01.gif" width="571" height="38" alt="L-カルニチンとは" /></h1>
+            </div>
+            <div id="section_01">
+            	<ul>
+                	<li><img src="../images/product/list_mark_or.gif" /><a href="karunitin.html#function">L-カルニチンの働き</a></li>
+                    <li><img src="../images/product/list_mark_or.gif" /><a href="karunitin.html#supply">L-カルニチンの補給</a></li>
+                    <li><img src="../images/product/list_mark_or.gif" /><a href="karunitin.html#change">体内のL-カルニチンの変化</a></li>
+               </ul>
+                <div style="clear:both;"></div>
+            </div>
+            
+            <div id="section_02">
+            	<a name="function" id="function"></a>
+                <h2><img src="../images/product/lcarnitine/head_01.gif" width="522" height="44" alt="L-カルニチンの働き" /></h2>
+                <p>L-カルニチンは、必須アミノ酸のリジンとメチオニンから生合成される分子量161.21の非常に小さな化合物です。</p>
+<p><img src="../images/product/lcarnitine/img_01.gif" alt="L-カルニチンの化学構造式" class="zu" />
+</p>
+                <p>私たちの筋肉細胞（主に「骨格筋」や「心筋」）に多く存在しており、<span class="red">脂質の代謝に必要不可欠な物質です</span>。脂質の代謝（脂質からエネルギーへの変換）は、細胞のミトコンドリア内で行われます。しかし、脂質は単独ではミトコンドリアの膜を通過できません。脂質が体内に取り込まれると脂肪酸に分解され、「脂肪酸」+「L-カルニチン」の結合によりミトコンドリア内に運ばれます。こうして、脂質がエネルギーへ変換され、体内で活用されます。糖質が瞬発的なエネルギー産生を担うのに対して、脂肪酸は持続的なエネルギー産生を担うことで、筋肉や心臓を効率よく動かしています。<br />
+                		
+                		つまり、L-カルニチンは<span class="red">脂肪酸をミトコンドリア内に運ぶ役割を担う</span>成分なのです（図1）。</p>
+
+                <div>
+                  <div> </div>
+                </div>
+<p><img src="../images/product/lcarnitine/img_02.gif" alt="図1：脂質代謝におけるL-カルニチンの役割" class="zu" />
+          <img src="../images/product/lcarnitine/img_02_02_1608.gif" alt="脂質をミトコンドリアに運びエネルギーに変換するお手伝い" class="zu" />
+          </p>
+              <p class="go_top"><a href="#top"><img src="../images/go_top.jpg" width="120" height="12" alt="このページのトップへ" /></a></p>
+                 <div style="clear:both;"></div>
+            </div>
+            
+            <div id="section_03">
+            	<a name="supply" id="supply"></a>
+                <h2><img src="../images/product/lcarnitine/head_02.gif" width="522" height="44" alt="L-カルニチンの補給" /></h2>
+                <p>L-カルニチンは、アミノ酸の類縁体で、私たちの体内でもリジンとメチオニンを前駆体として、主に肝臓や腎臓で<span class="blue">5段階の反応過程</span>を経て生合成されます。</p>
+                <p>体内で使用されるL-カルニチンは、平均的な日本人の場合、<span class="blue">全体の約4分の1が体内の生合成、残りの4分の3が食事からの供給</span>と言われており、<span class="blue_ul">大部分が</span><span class="red_ul">食事</span><span class="blue_ul">から補給されています</span>。食品中のL-カルニチンは、表1で示すように、特に<span class="red">肉類</span>に多く含まれていることから、L-カルニチンの補給には肉類の積極的な摂取が有効です。
+<img src="../images/product/lcarnitine/img_03_1610.gif" alt="表1：食品中のカルニチン含量" class="zu" />              </p>
+              <p class="go_top"><a href="#top"><img src="../images/go_top.jpg" width="120" height="12" alt="このページのトップへ" /></a></p>
+                <div style="clear:both;"></div>
+            </div>
+            
+            <div id="section_04">
+            	<a name="change" id="change"></a>
+                <h2><img src="../images/product/lcarnitine/head_03_1608.gif" width="522" height="44" alt="体内のL-カルニチン貯蔵量の変化" /></h2>
+                <p>体内のL-カルニチンについては、表2に示すように、<span class="blue">加齢に伴う生合成能の低下および食事量の減少により、高齢になるほど筋肉中のL-カルニチン（遊離カルニチン、アセチルカルニチン）濃度が低下することがわかっています</span>。また、最近ではダイエットや偏食などにより若年層でも<span class="red">L-カルニチンが不足しがちになっていると言われていることから、</span>年齢を問わず積極的な摂取が必要と考えられます。 </p>
+<img src="../images/product/lcarnitine/img_04.gif" alt="表２：加齢に伴うカルニチン貯蔵量の変化 " class="zu" />
+          	<div id="fireman"><img src="../images/product/lcarnitine/fireman_bnr.gif" alt="What's L-カルニチン L-カルニチン・炎の男の旅" border="0" onclick="MM_openBrWindow('http://www.ils.co.jp/fireman/index.html','fireman','scrollbars=yes,resizable=yes,width=630,height=700')" /></div>
+          	</div>
+          
+        <!-- InstanceEndEditable -->
+       	
+        	
+        	<p class="go_top"><a href="#top"><img src="../images/go_top.jpg" width="120" height="12" alt="このページのトップへ" /></a></p>
+            
+        
+   	  </div>
+        <!--main-->
+			
+		    <div id="sidebar">
+            
+            <div id="sidebar_top">            
+            	
+                <div class="section_01">
+                
+                <h4><img src="../images/sidebar/h4.png" width="84" height="35" alt="お知らせ" /></h4>
+                
+                <ul>
+                    <li id="s_02"><a href="../pharmaceutical.php"><img src="../images/sidebar/navi/sidebar_navi_02.jpg" width="202" height="62" alt="医薬品に関する最新情報はこちらから" /></a></li>
+                    <li id="s_03"><a href="../functionalfoods.php"><img src="../images/sidebar/navi/sidebar_navi_03.jpg" width="202" height="62" alt="機能食品に関する最新情報はこちらから" /></a></li>
+                    <li id="s_04"><a href="../confirmation.html"><img src="../images/sidebar/navi/sidebar_navi_04.jpg" width="202" height="62" alt="医療関係者のみなさまへ" /></a></li>
+                </ul>
+                
+              </div>
+                
+                <div class="section_02">
+                    	<div id="t_img"></div>
+                        <ul>
+                            <li id="bunner_02"><a href="karunitin.html"><img src="../images/sidebar/bunner/side_bunner_02.png" width="196" height="61" alt="Lカルニチンとは" /></a></li>
+                            <li id="bunner_03"><a href="hem.html"><img src="../images/sidebar/bunner/side_bunner_03.png" width="196" height="61" alt="ヘム鉄とは" /></a></li>
+                            <li id="bunner_04"><a href="liver.html"><img src="../images/sidebar/bunner/side_bunner_04.png" width="196" height="61" alt="肝臓エキス" /></a></li>
+                            <!-- InstanceBeginEditable name="side" -->
+							
+							<!-- InstanceEndEditable -->
+                        </ul>
+                        <img src="../images/sidebar/sidebar_back_b_b.png" width="201" height="8" class="img_block" alt="" />
+                </div>
+                
+			</div><!--sideber_top-->
+            
+      </div><!--sideber-->
+		
+        <br  />
+        <div style="clear: both"></div>
+        <br  />
+	
+    </div><!--content-->
+
+</div><!--wrapper-->
+
+	<div id="footer">
+    	<div id="footer_navi">
+            <div class="padding">
+            	
+                <div id="footer_navi_t">
+	                <div class="box">
+		                <h5 class="COM"><a href="../company.html"><img src="../images/footer/footer_navi_01.png" width="64" height="14" alt="会社案内" /></a></h5>
+		                <ul class="tri">
+		                  <li><a href="../company.html">会社概要</a></li>
+		                  <li><a href="../philosophy.html">企業理念</a></li>
+		                  <li><a href="../philosophy.html#message">ご挨拶</a></li>
+		                  <li><a href="../history.html">沿革</a></li>
+		                </ul>
+	                </div>
+	                
+	                <div class="box">
+		                <h5 class="BIZ"><a href="../business.html"><img src="../images/footer/footer_navi_02.png" width="65" height="14" alt="事業紹介" /></a></h5>
+		                <ul class="tri">
+		                  <li><a href="../business.html#pharmaceutical">医薬品</a></li>
+		                  <li><a href="../business.html#functional">機能食品</a></li>
+		                </ul>
+	                </div>
+	                
+	                <div class="box">
+		                <h5 class="PRO"><a href="../product_top.html"><img src="../images/footer/footer_navi_03.png" width="65" height="13" alt="製品紹介" /></a></h5>
+	                    
+	                    <div class="box_s">
+		                    <p><a href="../pharmaceutical.php">医薬品</a></p>
+		                    <ul class="sq">
+			                  <li><a href="../confirmation.html">医療用医薬品</a></li>
+			                  <li><a href="../confirmation.html">動物用医薬品</a></li>
+			                  <li><a href="../confirmation.html">原薬</a></li>
+			                </ul>
+	                    </div>
+	                    
+	                    <div class="box_s margin_clear">
+		                    <p><a href="functionalfoods.php">機能食品</a></p>
+		                    <ul class="sq">
+			                  <li><a href="karunitin.html">L-カルニチンとは</a></li>
+			                  <li><a href="hem.html">ヘム鉄とは</a></li>
+			                  <li><a href="liver.html">肝臓エキスとは</a></li>
+			                </ul>
+	                    </div>
+	                    <div style="clear: both"></div>
+	                </div>
+	                
+	                <div class="box">
+		                <h5 class="RES"><a href="../research.html"><img src="../images/footer/footer_navi_04.png" width="104" height="13" alt="研究開発・技術" /></a></h5>
+	                    <h5 class="ACC"><a href="../access.html"><img src="../images/footer/footer_navi_05.png" width="65" height="13" alt="アクセス" /></a></h5>
+	                </div>
+	                
+	                <div class="box">
+		                <h5 class="INQ"><a href="../inquiry.html"><img src="../images/footer/footer_navi_06.png" width="76" height="13" alt="お問い合せ" /></a></h5>
+	                </div>
+	                
+	                <div class="box_margin_clear">
+	                    <h5 class="TOP"><a href="../"><img src="../images/footer/footer_navi_07.png" width="85" height="13" alt="トップページ" /></a></h5>
+	                    <h5 class="MAP"><a href="../sitemap.html"><img src="../images/footer/footer_navi_08.png" width="85" height="13" alt="サイトマップ" /></a></h5>
+	                </div>
+                    <div style="clear: both"></div>
+                </div><!-- footer_navi_t -->
+		        
+                <div id="footer_navi_b">
+			        <ul>
+			            <li id="fm_01"><a href="../privacy.html"><img src="../images/footer/footer_navi_10.png" width="127" height="11" alt="プライバシーポシリー" /></a></li>
+					    <li id="fm_02"><a href="../sitepolicy.html"><img src="../images/footer/footer_navi_11.png" width="138" height="11" alt="サイトのご利用について" /></a></li>
+			        </ul>
+                    <address class="right"><img src="../images/footer/address.png" width="281" height="16" alt="Copyright (C) ILS Inc. All Rights Reserved." /></address>
+                    <div style="clear: both"></div>
+	       		</div><!-- footer_navi_b -->
+                
+            </div>
+        </div>
+        
+</div>
+
+
+<!--spryメニューバー用-->
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+<!--spryメニューバー用-->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12810577-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body>
+
+<!-- InstanceEnd --></html>
+�$dh�      \�d�\�d�@.�\��#   +    :http://www.ils.co.jp/seihin/karunitin.html necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 25 Mar 2019 05:18:27 GMT
+Server: Apache
+Last-Modified: Wed, 10 Oct 2018 01:16:55 GMT
+ETag: "8daab5-539e-5bbd5307"
+Accept-Ranges: bytes
+Content-Length: 21406
+Content-Type: text/html; charset=utf-8
+ original-response-headers Date: Mon, 25 Mar 2019 05:18:27 GMT
+Server: Apache
+Last-Modified: Wed, 10 Oct 2018 01:16:55 GMT
+ETag: "8daab5-539e-5bbd5307"
+Accept-Ranges: bytes
+Content-Length: 21406
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+ uncompressed-len 0 net-response-time-onstart 209 net-response-time-onstop 210 predictor::resource-count 100 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_03_03.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/SpryAssets/images/navi_04.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/SpryAssets/images/navi_05.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/SpryAssets/images/navi_06.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_06_02.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_06_03.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/main_lcarnitine.jpg 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/btn_head/btn_head_01.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/btn_head/btn_head_02.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/btn_head/btn_head_03.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/title_lcarnitine_01.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/list_mark_or.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/head_01.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/img_01.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/img_02.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/img_02_02_1608.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/go_top.jpg 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/head_02.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/img_03_1610.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/head_03_1608.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/img_04.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/product/lcarnitine/fireman_bnr.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/sidebar/h4.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/sidebar/navi/sidebar_navi_02.jpg 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/sidebar/navi/sidebar_navi_03.jpg 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/sidebar/navi/sidebar_navi_04.jpg 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/sidebar/bunner/side_bunner_02.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/sidebar/bunner/side_bunner_03.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/sidebar/bunner/side_bunner_04.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/sidebar/sidebar_back_b_b.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/footer_navi_01.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/footer_navi_02.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/footer_navi_03.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/footer_navi_04.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/footer_navi_05.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/footer_navi_06.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/footer_navi_07.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/footer_navi_08.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/footer_navi_10.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/footer_navi_11.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/footer/address.png 1,1,1553491107,4097 predictor::http://www.ils.co.jp/css/reset.css 1,1,1553491107,4096 predictor::http://www.ils.co.jp/css/base.css 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/SpryMenuBarHorizontal.css 1,1,1553491107,4096 predictor::http://www.ils.co.jp/css/btn_01.css 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/back_main_02.jpg 1,1,1553491107,4096 predictor::http://www.ils.co.jp/seihin/SpryAssets/SpryMenuBarDownHover.gif 1,1,1553491107,4096 predictor::http://www.ils.co.jp/seihin/SpryAssets/SpryMenuBarRightHover.gif 1,1,1553491107,4096 predictor::http://www.google-analytics.com/ga.js 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/navi_a_01.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_01_a_01.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_01_a_03.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_01_a_04.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_01_a_05.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_01_a_06.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/navi_a_02.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_02_a_02.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_02_a_03.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/navi_a_03.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_03_a_02.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_03_a_03.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/navi_a_04.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/navi_a_05.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/navi_a_06.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_06_a_02.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/SpryAssets/images/sub/navi_06_a_03.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/product/lcarnitine/btn_head/btn_head_01_ov.gif 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/product/lcarnitine/btn_head/btn_head_02_ov.gif 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/product/lcarnitine/btn_head/btn_head_03_ov.gif 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/go_top_a_01.jpg 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/product/lcarnitine/head_03.gif 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/sidebar_back_c.jpg 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/sidebar_back_b.jpg 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/sidebar_back_t.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/navi/sidebar_navi_a_02.jpg 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/navi/sidebar_navi_a_03.jpg 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/navi/sidebar_navi_a_04.jpg 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/sidebar_back_b_t.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/sidebar_back_b_c.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/bunner/side_bunner_a_02.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/bunner/side_bunner_a_03.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/sidebar/bunner/side_bunner_a_04.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer_bg.gif 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/hover/footer_navi_01.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/icon_tri.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/hover/footer_navi_02.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/hover/footer_navi_03.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/icon_sq.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/hover/footer_navi_04.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/hover/footer_navi_05.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/hover/footer_navi_06.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/hover/footer_navi_07.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/hover/footer_navi_08.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/hover/footer_navi_10.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/footer/hover/footer_navi_11.png 1,1,1553491107,4096 predictor::http://www.ils.co.jp/images/btn_top_ov.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/btn_sitemap_ov.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/btn/company_btn_ov.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/btn/seihin_btn_ov.gif 1,1,1553491107,4097 predictor::http://www.ils.co.jp/images/btn_english2_ov.gif 1,1,1553491107,4097   S�
